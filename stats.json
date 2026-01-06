@@ -1,0 +1,5066 @@
+{
+  "league_name": "The Bambu Bowl",
+  "teams": [
+    {
+      "name": "bambuboy",
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1586.54,
+      "points_against": 1598.4,
+      "efficiency": 81.6,
+      "points_left": 412.0,
+      "expected_wins": 6.1,
+      "schedule_luck": 0.9,
+      "consistency": 83.7,
+      "avg_points": 114.5,
+      "std_dev": 18.7,
+      "high_score": 154.0,
+      "low_score": 85.2,
+      "strength_of_schedule": 99.9
+    },
+    {
+      "name": "aiman23",
+      "wins": 4,
+      "losses": 10,
+      "points_for": 1570.3,
+      "points_against": 1692.2,
+      "efficiency": 84.9,
+      "points_left": 336.0,
+      "expected_wins": 6.6,
+      "schedule_luck": -2.6,
+      "consistency": 77.7,
+      "avg_points": 118.0,
+      "std_dev": 26.3,
+      "high_score": 183.3,
+      "low_score": 82.6,
+      "strength_of_schedule": 105.8
+    },
+    {
+      "name": "omaruddin",
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1764.1,
+      "points_against": 1718.3,
+      "efficiency": 88.8,
+      "points_left": 256.5,
+      "expected_wins": 9.4,
+      "schedule_luck": -2.4,
+      "consistency": 83.9,
+      "avg_points": 127.3,
+      "std_dev": 20.5,
+      "high_score": 168.8,
+      "low_score": 104.3,
+      "strength_of_schedule": 107.4
+    },
+    {
+      "name": "GopiAloo",
+      "wins": 9,
+      "losses": 5,
+      "points_for": 1780.48,
+      "points_against": 1641.64,
+      "efficiency": 86.3,
+      "points_left": 326.5,
+      "expected_wins": 9.9,
+      "schedule_luck": -0.9,
+      "consistency": 85.3,
+      "avg_points": 128.6,
+      "std_dev": 18.9,
+      "high_score": 156.6,
+      "low_score": 103.3,
+      "strength_of_schedule": 102.6
+    },
+    {
+      "name": "jalebibaby",
+      "wins": 8,
+      "losses": 6,
+      "points_for": 1753.76,
+      "points_against": 1692.04,
+      "efficiency": 81.7,
+      "points_left": 484.7,
+      "expected_wins": 9.2,
+      "schedule_luck": -1.2,
+      "consistency": 78.6,
+      "avg_points": 127.1,
+      "std_dev": 27.2,
+      "high_score": 195.6,
+      "low_score": 101.0,
+      "strength_of_schedule": 99.5
+    },
+    {
+      "name": "nassahkhan",
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1668.06,
+      "points_against": 1740.18,
+      "efficiency": 88.1,
+      "points_left": 254.2,
+      "expected_wins": 8.2,
+      "schedule_luck": -1.2,
+      "consistency": 82.9,
+      "avg_points": 117.4,
+      "std_dev": 20.0,
+      "high_score": 153.8,
+      "low_score": 86.4,
+      "strength_of_schedule": 108.8
+    },
+    {
+      "name": "fawwadkhan23",
+      "wins": 8,
+      "losses": 6,
+      "points_for": 1680.54,
+      "points_against": 1761.08,
+      "efficiency": 88.0,
+      "points_left": 272.4,
+      "expected_wins": 8.0,
+      "schedule_luck": -0.0,
+      "consistency": 79.5,
+      "avg_points": 117.7,
+      "std_dev": 24.1,
+      "high_score": 176.0,
+      "low_score": 82.9,
+      "strength_of_schedule": 103.6
+    },
+    {
+      "name": "irtazaraza",
+      "wins": 11,
+      "losses": 3,
+      "points_for": 1998.18,
+      "points_against": 1633.08,
+      "efficiency": 86.6,
+      "points_left": 352.7,
+      "expected_wins": 12.7,
+      "schedule_luck": -1.7,
+      "consistency": 86.0,
+      "avg_points": 143.0,
+      "std_dev": 20.0,
+      "high_score": 181.6,
+      "low_score": 106.8,
+      "strength_of_schedule": 102.1
+    },
+    {
+      "name": "omk10693",
+      "wins": 4,
+      "losses": 10,
+      "points_for": 1632.94,
+      "points_against": 1665.76,
+      "efficiency": 82.8,
+      "points_left": 389.4,
+      "expected_wins": 6.7,
+      "schedule_luck": -2.7,
+      "consistency": 81.2,
+      "avg_points": 117.2,
+      "std_dev": 22.1,
+      "high_score": 168.1,
+      "low_score": 84.6,
+      "strength_of_schedule": 104.1
+    },
+    {
+      "name": "Sohaibenator",
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1410.16,
+      "points_against": 1702.38,
+      "efficiency": 81.2,
+      "points_left": 386.8,
+      "expected_wins": 4.2,
+      "schedule_luck": 0.8,
+      "consistency": 72.8,
+      "avg_points": 104.2,
+      "std_dev": 28.4,
+      "high_score": 172.8,
+      "low_score": 59.2,
+      "strength_of_schedule": 106.4
+    }
+  ],
+  "weekly_data": {
+    "1": [
+      {
+        "week": 1,
+        "points": 111.82,
+        "optimal": 135.34
+      },
+      {
+        "week": 2,
+        "points": 138.98,
+        "optimal": 153.58
+      },
+      {
+        "week": 3,
+        "points": 100.6,
+        "optimal": 135.7
+      },
+      {
+        "week": 4,
+        "points": 122.22,
+        "optimal": 134.62
+      },
+      {
+        "week": 5,
+        "points": 110.94,
+        "optimal": 157.44
+      },
+      {
+        "week": 6,
+        "points": 127.56,
+        "optimal": 152.06
+      },
+      {
+        "week": 7,
+        "points": 105.2,
+        "optimal": 131.9
+      },
+      {
+        "week": 8,
+        "points": 132.28,
+        "optimal": 136.48
+      },
+      {
+        "week": 9,
+        "points": 121.3,
+        "optimal": 128.3
+      },
+      {
+        "week": 10,
+        "points": 111.8,
+        "optimal": 131.2
+      },
+      {
+        "week": 11,
+        "points": 85.24,
+        "optimal": 150.7
+      },
+      {
+        "week": 12,
+        "points": 125.92,
+        "optimal": 137.42000000000002
+      },
+      {
+        "week": 13,
+        "points": 98.54,
+        "optimal": 128.78
+      },
+      {
+        "week": 14,
+        "points": 94.14,
+        "optimal": 107.36
+      },
+      {
+        "week": 15,
+        "points": 91.9,
+        "optimal": 133.16
+      },
+      {
+        "week": 16,
+        "points": 154.0,
+        "optimal": 190.42
+      }
+    ],
+    "2": [
+      {
+        "week": 1,
+        "points": 95.98,
+        "optimal": 148.4
+      },
+      {
+        "week": 2,
+        "points": 129.14,
+        "optimal": 147.74
+      },
+      {
+        "week": 3,
+        "points": 128.14,
+        "optimal": 149.84
+      },
+      {
+        "week": 4,
+        "points": 131.2,
+        "optimal": 162.1
+      },
+      {
+        "week": 5,
+        "points": 118.0,
+        "optimal": 127.9
+      },
+      {
+        "week": 6,
+        "points": 82.62,
+        "optimal": 111.82
+      },
+      {
+        "week": 7,
+        "points": 103.64,
+        "optimal": 125.44
+      },
+      {
+        "week": 8,
+        "points": 140.56,
+        "optimal": 155.38
+      },
+      {
+        "week": 9,
+        "points": 84.84,
+        "optimal": 96.64
+      },
+      {
+        "week": 10,
+        "points": 124.32,
+        "optimal": 162.1
+      },
+      {
+        "week": 11,
+        "points": 118.9,
+        "optimal": 130.7
+      },
+      {
+        "week": 12,
+        "points": 132.76,
+        "optimal": 147.76
+      },
+      {
+        "week": 13,
+        "points": 84.0,
+        "optimal": 103.16
+      },
+      {
+        "week": 14,
+        "points": 96.2,
+        "optimal": 103.5
+      },
+      {
+        "week": 15,
+        "points": 183.34,
+        "optimal": 197.24
+      },
+      {
+        "week": 16,
+        "points": 134.4,
+        "optimal": 154.3
+      }
+    ],
+    "3": [
+      {
+        "week": 1,
+        "points": 114.84,
+        "optimal": 119.53999999999999
+      },
+      {
+        "week": 2,
+        "points": 111.6,
+        "optimal": 152.7
+      },
+      {
+        "week": 3,
+        "points": 109.84,
+        "optimal": 157.84
+      },
+      {
+        "week": 4,
+        "points": 145.58,
+        "optimal": 156.38
+      },
+      {
+        "week": 5,
+        "points": 123.38,
+        "optimal": 145.18
+      },
+      {
+        "week": 6,
+        "points": 125.46,
+        "optimal": 139.96
+      },
+      {
+        "week": 7,
+        "points": 111.28,
+        "optimal": 128.57999999999998
+      },
+      {
+        "week": 8,
+        "points": 113.12,
+        "optimal": 126.22
+      },
+      {
+        "week": 9,
+        "points": 165.9,
+        "optimal": 175.2
+      },
+      {
+        "week": 10,
+        "points": 132.62,
+        "optimal": 132.62
+      },
+      {
+        "week": 11,
+        "points": 105.16,
+        "optimal": 107.06
+      },
+      {
+        "week": 12,
+        "points": 120.32,
+        "optimal": 128.62
+      },
+      {
+        "week": 13,
+        "points": 139.74,
+        "optimal": 160.04
+      },
+      {
+        "week": 14,
+        "points": 145.26,
+        "optimal": 145.26
+      },
+      {
+        "week": 15,
+        "points": 104.3,
+        "optimal": 131.5
+      },
+      {
+        "week": 16,
+        "points": 168.76,
+        "optimal": 186.96
+      }
+    ],
+    "4": [
+      {
+        "week": 1,
+        "points": 103.32,
+        "optimal": 131.92
+      },
+      {
+        "week": 2,
+        "points": 107.34,
+        "optimal": 113.4
+      },
+      {
+        "week": 3,
+        "points": 121.42,
+        "optimal": 159.02
+      },
+      {
+        "week": 4,
+        "points": 109.86,
+        "optimal": 154.88
+      },
+      {
+        "week": 5,
+        "points": 150.34,
+        "optimal": 175.04
+      },
+      {
+        "week": 6,
+        "points": 152.14,
+        "optimal": 157.54
+      },
+      {
+        "week": 7,
+        "points": 151.38,
+        "optimal": 163.88
+      },
+      {
+        "week": 8,
+        "points": 115.08,
+        "optimal": 115.08
+      },
+      {
+        "week": 9,
+        "points": 110.76,
+        "optimal": 127.06
+      },
+      {
+        "week": 10,
+        "points": 109.5,
+        "optimal": 135.7
+      },
+      {
+        "week": 11,
+        "points": 156.64,
+        "optimal": 161.64000000000001
+      },
+      {
+        "week": 12,
+        "points": 135.66,
+        "optimal": 159.16
+      },
+      {
+        "week": 13,
+        "points": 143.08,
+        "optimal": 160.78
+      },
+      {
+        "week": 14,
+        "points": 113.96,
+        "optimal": 133.56
+      },
+      {
+        "week": 16,
+        "points": 138.6,
+        "optimal": 160.4
+      },
+      {
+        "week": 17,
+        "points": 138.44,
+        "optimal": 174.94
+      }
+    ],
+    "5": [
+      {
+        "week": 1,
+        "points": 115.46,
+        "optimal": 165.26
+      },
+      {
+        "week": 2,
+        "points": 150.12,
+        "optimal": 186.48000000000002
+      },
+      {
+        "week": 3,
+        "points": 121.52,
+        "optimal": 144.5
+      },
+      {
+        "week": 4,
+        "points": 178.06,
+        "optimal": 195.18
+      },
+      {
+        "week": 5,
+        "points": 106.72,
+        "optimal": 127.14
+      },
+      {
+        "week": 6,
+        "points": 112.9,
+        "optimal": 171.42
+      },
+      {
+        "week": 7,
+        "points": 110.34,
+        "optimal": 110.34
+      },
+      {
+        "week": 8,
+        "points": 158.12,
+        "optimal": 160.12
+      },
+      {
+        "week": 9,
+        "points": 108.32,
+        "optimal": 136.07999999999998
+      },
+      {
+        "week": 10,
+        "points": 116.04,
+        "optimal": 139.34
+      },
+      {
+        "week": 11,
+        "points": 129.78,
+        "optimal": 156.08
+      },
+      {
+        "week": 12,
+        "points": 112.72,
+        "optimal": 161.07999999999998
+      },
+      {
+        "week": 13,
+        "points": 109.62,
+        "optimal": 143.26
+      },
+      {
+        "week": 14,
+        "points": 124.04,
+        "optimal": 156.20000000000002
+      },
+      {
+        "week": 15,
+        "points": 195.62,
+        "optimal": 220.14
+      },
+      {
+        "week": 16,
+        "points": 101.0,
+        "optimal": 147.26
+      },
+      {
+        "week": 17,
+        "points": 109.78,
+        "optimal": 124.98
+      }
+    ],
+    "6": [
+      {
+        "week": 1,
+        "points": 119.72,
+        "optimal": 140.4
+      },
+      {
+        "week": 2,
+        "points": 138.48,
+        "optimal": 150.18
+      },
+      {
+        "week": 3,
+        "points": 128.66,
+        "optimal": 149.96
+      },
+      {
+        "week": 4,
+        "points": 106.8,
+        "optimal": 125.2
+      },
+      {
+        "week": 5,
+        "points": 140.52,
+        "optimal": 165.32
+      },
+      {
+        "week": 6,
+        "points": 99.98,
+        "optimal": 111.08
+      },
+      {
+        "week": 7,
+        "points": 118.44,
+        "optimal": 161.24
+      },
+      {
+        "week": 8,
+        "points": 143.12,
+        "optimal": 156.42
+      },
+      {
+        "week": 9,
+        "points": 111.78,
+        "optimal": 111.78
+      },
+      {
+        "week": 10,
+        "points": 153.8,
+        "optimal": 163.2
+      },
+      {
+        "week": 11,
+        "points": 86.44,
+        "optimal": 111.64
+      },
+      {
+        "week": 12,
+        "points": 88.58,
+        "optimal": 103.98
+      },
+      {
+        "week": 13,
+        "points": 127.24,
+        "optimal": 138.84
+      },
+      {
+        "week": 14,
+        "points": 104.5,
+        "optimal": 111.3
+      },
+      {
+        "week": 15,
+        "points": 112.36,
+        "optimal": 121.46000000000001
+      },
+      {
+        "week": 16,
+        "points": 97.64,
+        "optimal": 110.22
+      }
+    ],
+    "7": [
+      {
+        "week": 1,
+        "points": 137.26,
+        "optimal": 160.56
+      },
+      {
+        "week": 2,
+        "points": 118.0,
+        "optimal": 137.9
+      },
+      {
+        "week": 3,
+        "points": 128.32,
+        "optimal": 146.02
+      },
+      {
+        "week": 4,
+        "points": 137.98,
+        "optimal": 149.48
+      },
+      {
+        "week": 5,
+        "points": 114.82,
+        "optimal": 133.32
+      },
+      {
+        "week": 6,
+        "points": 89.14,
+        "optimal": 100.34
+      },
+      {
+        "week": 7,
+        "points": 141.66,
+        "optimal": 145.16
+      },
+      {
+        "week": 8,
+        "points": 82.92,
+        "optimal": 88.42
+      },
+      {
+        "week": 9,
+        "points": 144.46,
+        "optimal": 161.66
+      },
+      {
+        "week": 10,
+        "points": 91.04,
+        "optimal": 96.14
+      },
+      {
+        "week": 11,
+        "points": 105.82,
+        "optimal": 121.92
+      },
+      {
+        "week": 12,
+        "points": 109.92,
+        "optimal": 119.8
+      },
+      {
+        "week": 13,
+        "points": 103.24,
+        "optimal": 136.4
+      },
+      {
+        "week": 14,
+        "points": 175.96,
+        "optimal": 189.36
+      },
+      {
+        "week": 15,
+        "points": 117.1,
+        "optimal": 138.9
+      },
+      {
+        "week": 16,
+        "points": 105.54,
+        "optimal": 122.3
+      },
+      {
+        "week": 17,
+        "points": 97.9,
+        "optimal": 125.8
+      }
+    ],
+    "8": [
+      {
+        "week": 1,
+        "points": 115.98,
+        "optimal": 146.6
+      },
+      {
+        "week": 2,
+        "points": 157.08,
+        "optimal": 173.0
+      },
+      {
+        "week": 3,
+        "points": 106.82,
+        "optimal": 128.72
+      },
+      {
+        "week": 4,
+        "points": 124.66,
+        "optimal": 150.16
+      },
+      {
+        "week": 5,
+        "points": 136.56,
+        "optimal": 148.36
+      },
+      {
+        "week": 6,
+        "points": 159.64,
+        "optimal": 160.14000000000001
+      },
+      {
+        "week": 7,
+        "points": 135.42,
+        "optimal": 169.82
+      },
+      {
+        "week": 8,
+        "points": 166.88,
+        "optimal": 195.6
+      },
+      {
+        "week": 9,
+        "points": 136.9,
+        "optimal": 201.5
+      },
+      {
+        "week": 10,
+        "points": 181.62,
+        "optimal": 202.82
+      },
+      {
+        "week": 11,
+        "points": 139.22,
+        "optimal": 151.94
+      },
+      {
+        "week": 12,
+        "points": 154.96,
+        "optimal": 154.96
+      },
+      {
+        "week": 13,
+        "points": 142.0,
+        "optimal": 166.16
+      },
+      {
+        "week": 14,
+        "points": 140.44,
+        "optimal": 166.42000000000002
+      },
+      {
+        "week": 16,
+        "points": 164.26,
+        "optimal": 166.56
+      },
+      {
+        "week": 17,
+        "points": 124.88,
+        "optimal": 157.28
+      }
+    ],
+    "9": [
+      {
+        "week": 1,
+        "points": 96.42,
+        "optimal": 109.24000000000001
+      },
+      {
+        "week": 2,
+        "points": 94.4,
+        "optimal": 124.3
+      },
+      {
+        "week": 3,
+        "points": 109.52,
+        "optimal": 151.32
+      },
+      {
+        "week": 4,
+        "points": 113.78,
+        "optimal": 124.28
+      },
+      {
+        "week": 5,
+        "points": 132.04,
+        "optimal": 139.34
+      },
+      {
+        "week": 6,
+        "points": 104.76,
+        "optimal": 110.26
+      },
+      {
+        "week": 7,
+        "points": 149.74,
+        "optimal": 168.64
+      },
+      {
+        "week": 8,
+        "points": 112.98,
+        "optimal": 140.88
+      },
+      {
+        "week": 9,
+        "points": 97.72,
+        "optimal": 120.03999999999999
+      },
+      {
+        "week": 10,
+        "points": 132.9,
+        "optimal": 136.3
+      },
+      {
+        "week": 11,
+        "points": 84.6,
+        "optimal": 105.5
+      },
+      {
+        "week": 12,
+        "points": 168.12,
+        "optimal": 173.72
+      },
+      {
+        "week": 13,
+        "points": 105.82,
+        "optimal": 138.06
+      },
+      {
+        "week": 14,
+        "points": 130.14,
+        "optimal": 166.22
+      },
+      {
+        "week": 15,
+        "points": 110.82,
+        "optimal": 177.4
+      },
+      {
+        "week": 16,
+        "points": 131.48,
+        "optimal": 179.14
+      }
+    ],
+    "10": [
+      {
+        "week": 1,
+        "points": 107.58,
+        "optimal": 147.28
+      },
+      {
+        "week": 2,
+        "points": 88.64,
+        "optimal": 135.54
+      },
+      {
+        "week": 3,
+        "points": 87.12,
+        "optimal": 102.02
+      },
+      {
+        "week": 4,
+        "points": 98.68,
+        "optimal": 145.38
+      },
+      {
+        "week": 5,
+        "points": 133.68,
+        "optimal": 139.88
+      },
+      {
+        "week": 6,
+        "points": 110.38,
+        "optimal": 130.98
+      },
+      {
+        "week": 7,
+        "points": 91.72,
+        "optimal": 115.12
+      },
+      {
+        "week": 8,
+        "points": 68.18,
+        "optimal": 80.58
+      },
+      {
+        "week": 9,
+        "points": 172.78,
+        "optimal": 186.58
+      },
+      {
+        "week": 10,
+        "points": 119.4,
+        "optimal": 149.2
+      },
+      {
+        "week": 11,
+        "points": 79.12,
+        "optimal": 98.82
+      },
+      {
+        "week": 12,
+        "points": 104.94,
+        "optimal": 126.6
+      },
+      {
+        "week": 13,
+        "points": 88.74,
+        "optimal": 124.8
+      },
+      {
+        "week": 14,
+        "points": 59.2,
+        "optimal": 70.6
+      },
+      {
+        "week": 15,
+        "points": 136.3,
+        "optimal": 140.7
+      },
+      {
+        "week": 16,
+        "points": 121.4,
+        "optimal": 160.57999999999998
+      }
+    ]
+  },
+  "roster_map": {
+    "1": {
+      "name": "bambuboy",
+      "owner_id": "1227735303758823424",
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1586.54,
+      "points_against": 1598.4
+    },
+    "2": {
+      "name": "aiman23",
+      "owner_id": "1233830457490030592",
+      "wins": 4,
+      "losses": 10,
+      "points_for": 1570.3,
+      "points_against": 1692.2
+    },
+    "3": {
+      "name": "omaruddin",
+      "owner_id": "1233834890005336064",
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1764.1,
+      "points_against": 1718.3
+    },
+    "4": {
+      "name": "GopiAloo",
+      "owner_id": "1234065744946282496",
+      "wins": 9,
+      "losses": 5,
+      "points_for": 1780.48,
+      "points_against": 1641.64
+    },
+    "5": {
+      "name": "jalebibaby",
+      "owner_id": "1234073115701555200",
+      "wins": 8,
+      "losses": 6,
+      "points_for": 1753.76,
+      "points_against": 1692.04
+    },
+    "6": {
+      "name": "nassahkhan",
+      "owner_id": "1234335340764864512",
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1668.06,
+      "points_against": 1740.18
+    },
+    "7": {
+      "name": "fawwadkhan23",
+      "owner_id": "865713788442251264",
+      "wins": 8,
+      "losses": 6,
+      "points_for": 1680.54,
+      "points_against": 1761.08
+    },
+    "8": {
+      "name": "irtazaraza",
+      "owner_id": "1256180838786138112",
+      "wins": 11,
+      "losses": 3,
+      "points_for": 1998.18,
+      "points_against": 1633.08
+    },
+    "9": {
+      "name": "omk10693",
+      "owner_id": "1257540576836845568",
+      "wins": 4,
+      "losses": 10,
+      "points_for": 1632.94,
+      "points_against": 1665.76
+    },
+    "10": {
+      "name": "Sohaibenator",
+      "owner_id": "1257549665855885312",
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1410.16,
+      "points_against": 1702.38
+    }
+  },
+  "total_trades": 15,
+  "total_waivers": 568,
+  "all_trades": [
+    {
+      "team": "aiman23",
+      "week": 10,
+      "players_gained": [
+        "Travis Etienne (RB - JAX)",
+        "Chris Olave (WR - NO)"
+      ],
+      "players_lost": [
+        "Garrett Wilson (WR - NYJ)"
+      ],
+      "points_gained": 245.4,
+      "points_lost": 0,
+      "net_points": 245.4
+    },
+    {
+      "team": "jalebibaby",
+      "week": 4,
+      "players_gained": [
+        "George Pickens (WR - DAL)",
+        "Kenneth Walker (RB - SEA)"
+      ],
+      "players_lost": [
+        "Nico Collins (WR - HOU)"
+      ],
+      "points_gained": 335.4,
+      "points_lost": 172.2,
+      "net_points": 163.2
+    },
+    {
+      "team": "GopiAloo",
+      "week": 4,
+      "players_gained": [
+        "Zach Charbonnet (RB - SEA)"
+      ],
+      "players_lost": [
+        "Matthew Golden (WR - GB)"
+      ],
+      "points_gained": 138.6,
+      "points_lost": 13.2,
+      "net_points": 125.4
+    },
+    {
+      "team": "Sohaibenator",
+      "week": 3,
+      "players_gained": [
+        "Ashton Jeanty (RB - LV)",
+        "Juwan Johnson (TE - NO)"
+      ],
+      "players_lost": [
+        "Derrick Henry (RB - BAL)"
+      ],
+      "points_gained": 337.2,
+      "points_lost": 224.7,
+      "net_points": 112.5
+    },
+    {
+      "team": "bambuboy",
+      "week": 8,
+      "players_gained": [
+        "George Pickens (WR - DAL)",
+        "Zay Flowers (WR - BAL)"
+      ],
+      "players_lost": [
+        "Jacory Croskey-Merritt (RB - WAS)",
+        "Nico Collins (WR - HOU)"
+      ],
+      "points_gained": 260.4,
+      "points_lost": 167.1,
+      "net_points": 93.3
+    },
+    {
+      "team": "fawwadkhan23",
+      "week": 10,
+      "players_gained": [
+        "Jaylen Warren (RB - PIT)"
+      ],
+      "players_lost": [
+        "Oronde Gadsden (TE - LAC)"
+      ],
+      "points_gained": 92.4,
+      "points_lost": 9.8,
+      "net_points": 82.6
+    },
+    {
+      "team": "omk10693",
+      "week": 4,
+      "players_gained": [
+        "Javonte Williams (RB - DAL)"
+      ],
+      "players_lost": [
+        "Brian Thomas (WR - JAX)"
+      ],
+      "points_gained": 166.2,
+      "points_lost": 94.9,
+      "net_points": 71.3
+    },
+    {
+      "team": "aiman23",
+      "week": 1,
+      "players_gained": [
+        "Trey McBride (TE - ARI)"
+      ],
+      "players_lost": [
+        "Josh Jacobs (RB - GB)"
+      ],
+      "points_gained": 290.3,
+      "points_lost": 223.1,
+      "net_points": 67.2
+    },
+    {
+      "team": "bambuboy",
+      "week": 8,
+      "players_gained": [
+        "Stefon Diggs (WR - NE)"
+      ],
+      "players_lost": [
+        "Jake Ferguson (TE - DAL)"
+      ],
+      "points_gained": 108.0,
+      "points_lost": 66.2,
+      "net_points": 41.8
+    },
+    {
+      "team": "jalebibaby",
+      "week": 2,
+      "players_gained": [
+        "Keon Coleman (WR - BUF)",
+        "D'Andre Swift (RB - CHI)"
+      ],
+      "players_lost": [
+        "Courtland Sutton (WR - DEN)"
+      ],
+      "points_gained": 232.3,
+      "points_lost": 198.5,
+      "net_points": 33.8
+    },
+    {
+      "team": "aiman23",
+      "week": 9,
+      "players_gained": [
+        "Tyrone Tracy (RB - NYG)"
+      ],
+      "players_lost": [
+        "Tee Higgins (WR - CIN)"
+      ],
+      "points_gained": 87.5,
+      "points_lost": 74.8,
+      "net_points": 12.7
+    },
+    {
+      "team": "irtazaraza",
+      "week": 3,
+      "players_gained": [
+        "Drake London (WR - ATL)"
+      ],
+      "players_lost": [
+        "Emeka Egbuka (WR - TB)"
+      ],
+      "points_gained": 154.2,
+      "points_lost": 142.9,
+      "net_points": 11.3
+    },
+    {
+      "team": "omk10693",
+      "week": 14,
+      "players_gained": [
+        "Quinshon Judkins (RB - CLE)",
+        "Justin Jefferson (WR - MIN)",
+        "Jaylen Warren (RB - PIT)"
+      ],
+      "players_lost": [
+        "Kyle Monangai (RB - CHI)",
+        "Jaylen Waddle (WR - MIA)",
+        "Javonte Williams (RB - DAL)"
+      ],
+      "points_gained": 83.8,
+      "points_lost": 73.6,
+      "net_points": 10.2
+    },
+    {
+      "team": "irtazaraza",
+      "week": 3,
+      "players_gained": [
+        "Chris Godwin (WR - TB)"
+      ],
+      "players_lost": [
+        "Rhamondre Stevenson (RB - NE)"
+      ],
+      "points_gained": 19.2,
+      "points_lost": 12.8,
+      "net_points": 6.4
+    },
+    {
+      "team": "Sohaibenator",
+      "week": 11,
+      "players_gained": [
+        "TreVeyon Henderson (RB - NE)"
+      ],
+      "players_lost": [
+        "Tee Higgins (WR - CIN)"
+      ],
+      "points_gained": 63.2,
+      "points_lost": 59.5,
+      "net_points": 3.7
+    },
+    {
+      "team": "fawwadkhan23",
+      "week": 11,
+      "players_gained": [
+        "Tee Higgins (WR - CIN)"
+      ],
+      "players_lost": [
+        "TreVeyon Henderson (RB - NE)"
+      ],
+      "points_gained": 59.5,
+      "points_lost": 63.2,
+      "net_points": -3.7
+    },
+    {
+      "team": "omaruddin",
+      "week": 3,
+      "players_gained": [
+        "Rhamondre Stevenson (RB - NE)"
+      ],
+      "players_lost": [
+        "Chris Godwin (WR - TB)"
+      ],
+      "points_gained": 12.8,
+      "points_lost": 19.2,
+      "net_points": -6.4
+    },
+    {
+      "team": "fawwadkhan23",
+      "week": 14,
+      "players_gained": [
+        "Kyle Monangai (RB - CHI)",
+        "Jaylen Waddle (WR - MIA)",
+        "Javonte Williams (RB - DAL)"
+      ],
+      "players_lost": [
+        "Quinshon Judkins (RB - CLE)",
+        "Justin Jefferson (WR - MIN)",
+        "Jaylen Warren (RB - PIT)"
+      ],
+      "points_gained": 73.6,
+      "points_lost": 83.8,
+      "net_points": -10.2
+    },
+    {
+      "team": "Sohaibenator",
+      "week": 3,
+      "players_gained": [
+        "Emeka Egbuka (WR - TB)"
+      ],
+      "players_lost": [
+        "Drake London (WR - ATL)"
+      ],
+      "points_gained": 142.9,
+      "points_lost": 154.2,
+      "net_points": -11.3
+    },
+    {
+      "team": "Sohaibenator",
+      "week": 9,
+      "players_gained": [
+        "Tee Higgins (WR - CIN)"
+      ],
+      "players_lost": [
+        "Tyrone Tracy (RB - NYG)"
+      ],
+      "points_gained": 74.8,
+      "points_lost": 87.5,
+      "net_points": -12.7
+    },
+    {
+      "team": "fawwadkhan23",
+      "week": 2,
+      "players_gained": [
+        "Courtland Sutton (WR - DEN)"
+      ],
+      "players_lost": [
+        "Keon Coleman (WR - BUF)",
+        "D'Andre Swift (RB - CHI)"
+      ],
+      "points_gained": 198.5,
+      "points_lost": 232.3,
+      "net_points": -33.8
+    },
+    {
+      "team": "nassahkhan",
+      "week": 8,
+      "players_gained": [
+        "Jake Ferguson (TE - DAL)"
+      ],
+      "players_lost": [
+        "Stefon Diggs (WR - NE)"
+      ],
+      "points_gained": 66.2,
+      "points_lost": 108.0,
+      "net_points": -41.8
+    },
+    {
+      "team": "bambuboy",
+      "week": 1,
+      "players_gained": [
+        "Josh Jacobs (RB - GB)"
+      ],
+      "players_lost": [
+        "Trey McBride (TE - ARI)"
+      ],
+      "points_gained": 223.1,
+      "points_lost": 290.3,
+      "net_points": -67.2
+    },
+    {
+      "team": "aiman23",
+      "week": 4,
+      "players_gained": [
+        "Brian Thomas (WR - JAX)"
+      ],
+      "players_lost": [
+        "Javonte Williams (RB - DAL)"
+      ],
+      "points_gained": 94.9,
+      "points_lost": 166.2,
+      "net_points": -71.3
+    },
+    {
+      "team": "Sohaibenator",
+      "week": 10,
+      "players_gained": [
+        "Oronde Gadsden (TE - LAC)"
+      ],
+      "players_lost": [
+        "Jaylen Warren (RB - PIT)"
+      ],
+      "points_gained": 9.8,
+      "points_lost": 92.4,
+      "net_points": -82.6
+    },
+    {
+      "team": "jalebibaby",
+      "week": 8,
+      "players_gained": [
+        "Jacory Croskey-Merritt (RB - WAS)",
+        "Nico Collins (WR - HOU)"
+      ],
+      "players_lost": [
+        "George Pickens (WR - DAL)",
+        "Zay Flowers (WR - BAL)"
+      ],
+      "points_gained": 167.1,
+      "points_lost": 260.4,
+      "net_points": -93.3
+    },
+    {
+      "team": "bambuboy",
+      "week": 3,
+      "players_gained": [
+        "Derrick Henry (RB - BAL)"
+      ],
+      "players_lost": [
+        "Ashton Jeanty (RB - LV)",
+        "Juwan Johnson (TE - NO)"
+      ],
+      "points_gained": 224.7,
+      "points_lost": 337.2,
+      "net_points": -112.5
+    },
+    {
+      "team": "irtazaraza",
+      "week": 4,
+      "players_gained": [
+        "Matthew Golden (WR - GB)"
+      ],
+      "players_lost": [
+        "Zach Charbonnet (RB - SEA)"
+      ],
+      "points_gained": 13.2,
+      "points_lost": 138.6,
+      "net_points": -125.4
+    },
+    {
+      "team": "bambuboy",
+      "week": 4,
+      "players_gained": [
+        "Nico Collins (WR - HOU)"
+      ],
+      "players_lost": [
+        "George Pickens (WR - DAL)",
+        "Kenneth Walker (RB - SEA)"
+      ],
+      "points_gained": 172.2,
+      "points_lost": 335.4,
+      "net_points": -163.2
+    },
+    {
+      "team": "fawwadkhan23",
+      "week": 10,
+      "players_gained": [
+        "Garrett Wilson (WR - NYJ)"
+      ],
+      "players_lost": [
+        "Travis Etienne (RB - JAX)",
+        "Chris Olave (WR - NO)"
+      ],
+      "points_gained": 0,
+      "points_lost": 245.4,
+      "net_points": -245.4
+    }
+  ],
+  "net_trade_performance": [
+    {
+      "team": "aiman23",
+      "net_points": 254.0,
+      "trades_made": 4
+    },
+    {
+      "team": "GopiAloo",
+      "net_points": 125.4,
+      "trades_made": 1
+    },
+    {
+      "team": "jalebibaby",
+      "net_points": 103.7,
+      "trades_made": 3
+    },
+    {
+      "team": "omk10693",
+      "net_points": 81.5,
+      "trades_made": 2
+    },
+    {
+      "team": "Sohaibenator",
+      "net_points": 9.6,
+      "trades_made": 5
+    },
+    {
+      "team": "omaruddin",
+      "net_points": -6.4,
+      "trades_made": 1
+    },
+    {
+      "team": "nassahkhan",
+      "net_points": -41.8,
+      "trades_made": 1
+    },
+    {
+      "team": "irtazaraza",
+      "net_points": -107.7,
+      "trades_made": 3
+    },
+    {
+      "team": "bambuboy",
+      "net_points": -207.8,
+      "trades_made": 5
+    },
+    {
+      "team": "fawwadkhan23",
+      "net_points": -210.5,
+      "trades_made": 5
+    }
+  ],
+  "best_waiver_pickups": [
+    {
+      "team": "GopiAloo",
+      "week": 3,
+      "player": "Drake Maye (QB - NE)",
+      "total_points": 280.9,
+      "avg_per_week": 20.1,
+      "weeks_owned": 14
+    },
+    {
+      "team": "jalebibaby",
+      "week": 1,
+      "player": "Dallas Goedert (TE - PHI)",
+      "total_points": 173.7,
+      "avg_per_week": 10.9,
+      "weeks_owned": 16
+    },
+    {
+      "team": "irtazaraza",
+      "week": 2,
+      "player": "Michael Pittman (WR - IND)",
+      "total_points": 171.3,
+      "avg_per_week": 11.4,
+      "weeks_owned": 15
+    },
+    {
+      "team": "omk10693",
+      "week": 7,
+      "player": "Bo Nix (QB - DEN)",
+      "total_points": 163.9,
+      "avg_per_week": 16.4,
+      "weeks_owned": 10
+    },
+    {
+      "team": "Sohaibenator",
+      "week": 5,
+      "player": "Rico Dowdle (RB - CAR)",
+      "total_points": 159.6,
+      "avg_per_week": 13.3,
+      "weeks_owned": 12
+    },
+    {
+      "team": "omk10693",
+      "week": 1,
+      "player": "Keenan Allen (WR - LAC)",
+      "total_points": 152.3,
+      "avg_per_week": 9.5,
+      "weeks_owned": 16
+    },
+    {
+      "team": "omk10693",
+      "week": 6,
+      "player": "Kyle Pitts (TE - ATL)",
+      "total_points": 147.7,
+      "avg_per_week": 13.4,
+      "weeks_owned": 11
+    },
+    {
+      "team": "Sohaibenator",
+      "week": 1,
+      "player": "Quentin Johnston (WR - LAC)",
+      "total_points": 146.3,
+      "avg_per_week": 9.1,
+      "weeks_owned": 16
+    },
+    {
+      "team": "omk10693",
+      "week": 4,
+      "player": "Jason Myers (K - SEA)",
+      "total_points": 143.0,
+      "avg_per_week": 11.0,
+      "weeks_owned": 13
+    },
+    {
+      "team": "omk10693",
+      "week": 6,
+      "player": "Wan'Dale Robinson (WR - NYG)",
+      "total_points": 141.6,
+      "avg_per_week": 12.9,
+      "weeks_owned": 11
+    }
+  ],
+  "best_avg_waiver_pickups": [
+    {
+      "team": "omk10693",
+      "week": 11,
+      "player": "Matthew Stafford (QB - LAR)",
+      "total_points": 128.3,
+      "avg_per_week": 21.4,
+      "weeks_owned": 6
+    },
+    {
+      "team": "irtazaraza",
+      "week": 11,
+      "player": "Dak Prescott (QB - DAL)",
+      "total_points": 123.9,
+      "avg_per_week": 20.7,
+      "weeks_owned": 6
+    },
+    {
+      "team": "GopiAloo",
+      "week": 3,
+      "player": "Drake Maye (QB - NE)",
+      "total_points": 280.9,
+      "avg_per_week": 20.1,
+      "weeks_owned": 14
+    },
+    {
+      "team": "fawwadkhan23",
+      "week": 11,
+      "player": "Michael Wilson (WR - ARI)",
+      "total_points": 115.1,
+      "avg_per_week": 19.2,
+      "weeks_owned": 6
+    },
+    {
+      "team": "bambuboy",
+      "week": 11,
+      "player": "Brock Purdy (QB - SF)",
+      "total_points": 106.3,
+      "avg_per_week": 17.7,
+      "weeks_owned": 6
+    },
+    {
+      "team": "bambuboy",
+      "week": 13,
+      "player": "Jacoby Brissett (QB - ARI)",
+      "total_points": 69.7,
+      "avg_per_week": 17.4,
+      "weeks_owned": 4
+    },
+    {
+      "team": "omk10693",
+      "week": 7,
+      "player": "Bo Nix (QB - DEN)",
+      "total_points": 163.9,
+      "avg_per_week": 16.4,
+      "weeks_owned": 10
+    },
+    {
+      "team": "bambuboy",
+      "week": 11,
+      "player": "Kenneth Gainwell (RB - PIT)",
+      "total_points": 91.1,
+      "avg_per_week": 15.2,
+      "weeks_owned": 6
+    },
+    {
+      "team": "omaruddin",
+      "week": 10,
+      "player": "Joe Burrow (QB - CIN)",
+      "total_points": 101.5,
+      "avg_per_week": 14.5,
+      "weeks_owned": 7
+    },
+    {
+      "team": "nassahkhan",
+      "week": 14,
+      "player": "Ka'imi Fairbairn (K - HOU)",
+      "total_points": 43.0,
+      "avg_per_week": 14.3,
+      "weeks_owned": 3
+    }
+  ],
+  "team_waiver_activity": [
+    {
+      "team": "fawwadkhan23",
+      "total_adds": 114,
+      "total_points": 5217.0,
+      "avg_per_add": 45.8
+    },
+    {
+      "team": "omk10693",
+      "total_adds": 45,
+      "total_points": 3273.7,
+      "avg_per_add": 72.7
+    },
+    {
+      "team": "omaruddin",
+      "total_adds": 51,
+      "total_points": 2542.8,
+      "avg_per_add": 49.9
+    },
+    {
+      "team": "aiman23",
+      "total_adds": 47,
+      "total_points": 2453.2,
+      "avg_per_add": 52.2
+    },
+    {
+      "team": "bambuboy",
+      "total_adds": 74,
+      "total_points": 2060.8,
+      "avg_per_add": 27.8
+    },
+    {
+      "team": "irtazaraza",
+      "total_adds": 54,
+      "total_points": 1531.7,
+      "avg_per_add": 28.4
+    },
+    {
+      "team": "Sohaibenator",
+      "total_adds": 23,
+      "total_points": 1359.3,
+      "avg_per_add": 59.1
+    },
+    {
+      "team": "nassahkhan",
+      "total_adds": 38,
+      "total_points": 1312.2,
+      "avg_per_add": 34.5
+    },
+    {
+      "team": "GopiAloo",
+      "total_adds": 31,
+      "total_points": 1312.1,
+      "avg_per_add": 42.3
+    },
+    {
+      "team": "jalebibaby",
+      "total_adds": 11,
+      "total_points": 466.0,
+      "avg_per_add": 42.4
+    }
+  ],
+  "draft_steals": [
+    {
+      "team": "nassahkhan",
+      "player": "Drake Maye (QB - NE)",
+      "position": "QB",
+      "pick": 125,
+      "round": 13,
+      "total_points": 297.7,
+      "finish_position": "QB3",
+      "adp": 125
+    },
+    {
+      "team": "nassahkhan",
+      "player": "Patrick Mahomes (QB - KC)",
+      "position": "QB",
+      "pick": 56,
+      "round": 6,
+      "total_points": 296.7,
+      "finish_position": "QB4",
+      "adp": 56
+    },
+    {
+      "team": "bambuboy",
+      "player": "George Pickens (WR - DAL)",
+      "position": "WR",
+      "pick": 50,
+      "round": 5,
+      "total_points": 290.0,
+      "finish_position": "WR4",
+      "adp": 50
+    },
+    {
+      "team": "jalebibaby",
+      "player": "Jared Goff (QB - DET)",
+      "position": "QB",
+      "pick": 107,
+      "round": 11,
+      "total_points": 288.8,
+      "finish_position": "QB5",
+      "adp": 107
+    },
+    {
+      "team": "bambuboy",
+      "player": "Justin Herbert (QB - LAC)",
+      "position": "QB",
+      "pick": 90,
+      "round": 9,
+      "total_points": 286.7,
+      "finish_position": "QB6",
+      "adp": 90
+    },
+    {
+      "team": "fawwadkhan23",
+      "player": "Chris Olave (WR - NO)",
+      "position": "WR",
+      "pick": 86,
+      "round": 9,
+      "total_points": 269.0,
+      "finish_position": "WR6",
+      "adp": 86
+    },
+    {
+      "team": "bambuboy",
+      "player": "Travis Etienne (RB - JAX)",
+      "position": "RB",
+      "pick": 91,
+      "round": 10,
+      "total_points": 249.1,
+      "finish_position": "RB10",
+      "adp": 91
+    },
+    {
+      "team": "aiman23",
+      "player": "Javonte Williams (RB - DAL)",
+      "position": "RB",
+      "pick": 139,
+      "round": 14,
+      "total_points": 242.8,
+      "finish_position": "RB11",
+      "adp": 139
+    },
+    {
+      "team": "omk10693",
+      "player": "Dak Prescott (QB - DAL)",
+      "position": "QB",
+      "pick": 117,
+      "round": 12,
+      "total_points": 240.7,
+      "finish_position": "QB7",
+      "adp": 117
+    },
+    {
+      "team": "irtazaraza",
+      "player": "Baker Mayfield (QB - TB)",
+      "position": "QB",
+      "pick": 61,
+      "round": 7,
+      "total_points": 235.6,
+      "finish_position": "QB8",
+      "adp": 61
+    }
+  ],
+  "draft_busts": [
+    {
+      "team": "bambuboy",
+      "player": "Malik Nabers (WR - NYG)",
+      "position": "WR",
+      "pick": 10,
+      "round": 1,
+      "total_points": 57.1,
+      "finish_position": "WR47",
+      "adp": 10
+    },
+    {
+      "team": "Sohaibenator",
+      "player": "Chuba Hubbard (RB - CAR)",
+      "position": "RB",
+      "pick": 29,
+      "round": 3,
+      "total_points": 82.0,
+      "finish_position": "RB38",
+      "adp": 29
+    },
+    {
+      "team": "nassahkhan",
+      "player": "Alvin Kamara (RB - NO)",
+      "position": "RB",
+      "pick": 25,
+      "round": 3,
+      "total_points": 100.7,
+      "finish_position": "RB34",
+      "adp": 25
+    },
+    {
+      "team": "fawwadkhan23",
+      "player": "Bucky Irving (RB - TB)",
+      "position": "RB",
+      "pick": 15,
+      "round": 2,
+      "total_points": 127.7,
+      "finish_position": "RB28",
+      "adp": 15
+    },
+    {
+      "team": "omk10693",
+      "player": "Brian Thomas (WR - JAX)",
+      "position": "WR",
+      "pick": 17,
+      "round": 2,
+      "total_points": 130.9,
+      "finish_position": "WR34",
+      "adp": 17
+    },
+    {
+      "team": "omaruddin",
+      "player": "Omarion Hampton (RB - LAC)",
+      "position": "RB",
+      "pick": 28,
+      "round": 3,
+      "total_points": 135.7,
+      "finish_position": "RB26",
+      "adp": 28
+    },
+    {
+      "team": "fawwadkhan23",
+      "player": "Brock Bowers (TE - LV)",
+      "position": "TE",
+      "pick": 26,
+      "round": 3,
+      "total_points": 176.2,
+      "finish_position": "TE6",
+      "adp": 26
+    },
+    {
+      "team": "omk10693",
+      "player": "Ladd McConkey (WR - LAC)",
+      "position": "WR",
+      "pick": 24,
+      "round": 3,
+      "total_points": 180.9,
+      "finish_position": "WR24",
+      "adp": 24
+    },
+    {
+      "team": "fawwadkhan23",
+      "player": "Justin Jefferson (WR - MIN)",
+      "position": "WR",
+      "pick": 6,
+      "round": 1,
+      "total_points": 183.1,
+      "finish_position": "WR23",
+      "adp": 6
+    },
+    {
+      "team": "Sohaibenator",
+      "player": "Drake London (WR - ATL)",
+      "position": "WR",
+      "pick": 12,
+      "round": 2,
+      "total_points": 184.1,
+      "finish_position": "WR22",
+      "adp": 12
+    }
+  ],
+  "draft_efficiency": [
+    {
+      "team": "irtazaraza",
+      "total_draft_points": 2513.2,
+      "num_picks": 14,
+      "points_per_pick": 179.5
+    },
+    {
+      "team": "jalebibaby",
+      "total_draft_points": 2440.2,
+      "num_picks": 14,
+      "points_per_pick": 174.3
+    },
+    {
+      "team": "bambuboy",
+      "total_draft_points": 2428.2,
+      "num_picks": 14,
+      "points_per_pick": 173.4
+    },
+    {
+      "team": "nassahkhan",
+      "total_draft_points": 2393.9,
+      "num_picks": 14,
+      "points_per_pick": 171.0
+    },
+    {
+      "team": "GopiAloo",
+      "total_draft_points": 2323.1,
+      "num_picks": 14,
+      "points_per_pick": 165.9
+    },
+    {
+      "team": "omaruddin",
+      "total_draft_points": 2050.9,
+      "num_picks": 14,
+      "points_per_pick": 146.5
+    },
+    {
+      "team": "aiman23",
+      "total_draft_points": 1999.3,
+      "num_picks": 14,
+      "points_per_pick": 142.8
+    },
+    {
+      "team": "omk10693",
+      "total_draft_points": 1938.0,
+      "num_picks": 14,
+      "points_per_pick": 138.4
+    },
+    {
+      "team": "Sohaibenator",
+      "total_draft_points": 1815.3,
+      "num_picks": 14,
+      "points_per_pick": 129.7
+    },
+    {
+      "team": "fawwadkhan23",
+      "total_draft_points": 1737.2,
+      "num_picks": 14,
+      "points_per_pick": 124.1
+    }
+  ],
+  "best_draft_round": {
+    "round": 1,
+    "avg_points": 264.3,
+    "total_points": 2643.0,
+    "num_picks": 10
+  },
+  "scorers_vs_draft": {
+    "top_scorers": [
+      {
+        "player": "Christian McCaffrey (RB - SF)",
+        "position": "RB",
+        "total_points": 404.9,
+        "finish_position": "RB1",
+        "drafted": {
+          "pick": 8,
+          "round": 1,
+          "team": "omaruddin"
+        }
+      },
+      {
+        "player": "Josh Allen (QB - BUF)",
+        "position": "QB",
+        "total_points": 374.6,
+        "finish_position": "QB1",
+        "drafted": {
+          "pick": 34,
+          "round": 4,
+          "team": "jalebibaby"
+        }
+      },
+      {
+        "player": "Bijan Robinson (RB - ATL)",
+        "position": "RB",
+        "total_points": 363.5,
+        "finish_position": "RB2",
+        "drafted": {
+          "pick": 3,
+          "round": 1,
+          "team": "GopiAloo"
+        }
+      },
+      {
+        "player": "Jonathan Taylor (RB - IND)",
+        "position": "RB",
+        "total_points": 356.4,
+        "finish_position": "RB3",
+        "drafted": {
+          "pick": 16,
+          "round": 2,
+          "team": "nassahkhan"
+        }
+      },
+      {
+        "player": "Puka Nacua (WR - LAR)",
+        "position": "WR",
+        "total_points": 349.0,
+        "finish_position": "WR1",
+        "drafted": {
+          "pick": 13,
+          "round": 2,
+          "team": "omaruddin"
+        }
+      },
+      {
+        "player": "Jahmyr Gibbs (RB - DET)",
+        "position": "RB",
+        "total_points": 346.6,
+        "finish_position": "RB4",
+        "drafted": {
+          "pick": 4,
+          "round": 1,
+          "team": "omk10693"
+        }
+      },
+      {
+        "player": "Jaxon Smith-Njigba (WR - SEA)",
+        "position": "WR",
+        "total_points": 345.5,
+        "finish_position": "WR2",
+        "drafted": {
+          "pick": 38,
+          "round": 4,
+          "team": "GopiAloo"
+        }
+      },
+      {
+        "player": "De'Von Achane (RB - MIA)",
+        "position": "RB",
+        "total_points": 322.8,
+        "finish_position": "RB5",
+        "drafted": {
+          "pick": 21,
+          "round": 3,
+          "team": "irtazaraza"
+        }
+      },
+      {
+        "player": "Jalen Hurts (QB - PHI)",
+        "position": "QB",
+        "total_points": 305.1,
+        "finish_position": "QB2",
+        "drafted": {
+          "pick": 39,
+          "round": 4,
+          "team": "aiman23"
+        }
+      },
+      {
+        "player": "Trey McBride (TE - ARI)",
+        "position": "TE",
+        "total_points": 302.4,
+        "finish_position": "TE1",
+        "drafted": {
+          "pick": 30,
+          "round": 3,
+          "team": "bambuboy"
+        }
+      },
+      {
+        "player": "James Cook (RB - BUF)",
+        "position": "RB",
+        "total_points": 300.7,
+        "finish_position": "RB6",
+        "drafted": {
+          "pick": 27,
+          "round": 3,
+          "team": "jalebibaby"
+        }
+      },
+      {
+        "player": "Amon-Ra St. Brown (WR - DET)",
+        "position": "WR",
+        "total_points": 299.1,
+        "finish_position": "WR3",
+        "drafted": {
+          "pick": 7,
+          "round": 1,
+          "team": "jalebibaby"
+        }
+      },
+      {
+        "player": "Drake Maye (QB - NE)",
+        "position": "QB",
+        "total_points": 297.7,
+        "finish_position": "QB3",
+        "drafted": {
+          "pick": 125,
+          "round": 13,
+          "team": "nassahkhan"
+        }
+      },
+      {
+        "player": "Patrick Mahomes (QB - KC)",
+        "position": "QB",
+        "total_points": 296.7,
+        "finish_position": "QB4",
+        "drafted": {
+          "pick": 56,
+          "round": 6,
+          "team": "nassahkhan"
+        }
+      },
+      {
+        "player": "George Pickens (WR - DAL)",
+        "position": "WR",
+        "total_points": 290.0,
+        "finish_position": "WR4",
+        "drafted": {
+          "pick": 50,
+          "round": 5,
+          "team": "bambuboy"
+        }
+      },
+      {
+        "player": "Ja'Marr Chase (WR - CIN)",
+        "position": "WR",
+        "total_points": 290.0,
+        "finish_position": "WR5",
+        "drafted": {
+          "pick": 1,
+          "round": 1,
+          "team": "irtazaraza"
+        }
+      },
+      {
+        "player": "Jared Goff (QB - DET)",
+        "position": "QB",
+        "total_points": 288.8,
+        "finish_position": "QB5",
+        "drafted": {
+          "pick": 107,
+          "round": 11,
+          "team": "jalebibaby"
+        }
+      },
+      {
+        "player": "Justin Herbert (QB - LAC)",
+        "position": "QB",
+        "total_points": 286.7,
+        "finish_position": "QB6",
+        "drafted": {
+          "pick": 90,
+          "round": 9,
+          "team": "bambuboy"
+        }
+      },
+      {
+        "player": "Chris Olave (WR - NO)",
+        "position": "WR",
+        "total_points": 269.0,
+        "finish_position": "WR6",
+        "drafted": {
+          "pick": 86,
+          "round": 9,
+          "team": "fawwadkhan23"
+        }
+      },
+      {
+        "player": "Derrick Henry (RB - BAL)",
+        "position": "RB",
+        "total_points": 266.9,
+        "finish_position": "RB7",
+        "drafted": {
+          "pick": 9,
+          "round": 1,
+          "team": "Sohaibenator"
+        }
+      },
+      {
+        "player": "Chase Brown (RB - CIN)",
+        "position": "RB",
+        "total_points": 263.6,
+        "finish_position": "RB8",
+        "drafted": {
+          "pick": 20,
+          "round": 2,
+          "team": "irtazaraza"
+        }
+      },
+      {
+        "player": "Kyren Williams (RB - LAR)",
+        "position": "RB",
+        "total_points": 252.2,
+        "finish_position": "RB9",
+        "drafted": {
+          "pick": 23,
+          "round": 3,
+          "team": "GopiAloo"
+        }
+      },
+      {
+        "player": "Travis Etienne (RB - JAX)",
+        "position": "RB",
+        "total_points": 249.1,
+        "finish_position": "RB10",
+        "drafted": {
+          "pick": 91,
+          "round": 10,
+          "team": "bambuboy"
+        }
+      },
+      {
+        "player": "Javonte Williams (RB - DAL)",
+        "position": "RB",
+        "total_points": 242.8,
+        "finish_position": "RB11",
+        "drafted": {
+          "pick": 139,
+          "round": 14,
+          "team": "aiman23"
+        }
+      },
+      {
+        "player": "Dak Prescott (QB - DAL)",
+        "position": "QB",
+        "total_points": 240.7,
+        "finish_position": "QB7",
+        "drafted": {
+          "pick": 117,
+          "round": 12,
+          "team": "omk10693"
+        }
+      },
+      {
+        "player": "Josh Jacobs (RB - GB)",
+        "position": "RB",
+        "total_points": 237.1,
+        "finish_position": "RB12",
+        "drafted": {
+          "pick": 19,
+          "round": 2,
+          "team": "aiman23"
+        }
+      },
+      {
+        "player": "Baker Mayfield (QB - TB)",
+        "position": "QB",
+        "total_points": 235.6,
+        "finish_position": "QB8",
+        "drafted": {
+          "pick": 61,
+          "round": 7,
+          "team": "irtazaraza"
+        }
+      },
+      {
+        "player": "Ashton Jeanty (RB - LV)",
+        "position": "RB",
+        "total_points": 232.7,
+        "finish_position": "RB13",
+        "drafted": {
+          "pick": 11,
+          "round": 2,
+          "team": "bambuboy"
+        }
+      },
+      {
+        "player": "Saquon Barkley (RB - PHI)",
+        "position": "RB",
+        "total_points": 232.3,
+        "finish_position": "RB14",
+        "drafted": {
+          "pick": 2,
+          "round": 1,
+          "team": "aiman23"
+        }
+      },
+      {
+        "player": "Nico Collins (WR - HOU)",
+        "position": "WR",
+        "total_points": 226.2,
+        "finish_position": "WR7",
+        "drafted": {
+          "pick": 14,
+          "round": 2,
+          "team": "jalebibaby"
+        }
+      }
+    ],
+    "draft_order": [
+      {
+        "pick": 1,
+        "round": 1,
+        "player": "Ja'Marr Chase (WR - CIN)",
+        "position": "WR",
+        "team": "irtazaraza",
+        "total_points": 290.0,
+        "finish_position": "WR5"
+      },
+      {
+        "pick": 2,
+        "round": 1,
+        "player": "Saquon Barkley (RB - PHI)",
+        "position": "RB",
+        "team": "aiman23",
+        "total_points": 232.3,
+        "finish_position": "RB14"
+      },
+      {
+        "pick": 3,
+        "round": 1,
+        "player": "Bijan Robinson (RB - ATL)",
+        "position": "RB",
+        "team": "GopiAloo",
+        "total_points": 363.5,
+        "finish_position": "RB2"
+      },
+      {
+        "pick": 4,
+        "round": 1,
+        "player": "Jahmyr Gibbs (RB - DET)",
+        "position": "RB",
+        "team": "omk10693",
+        "total_points": 346.6,
+        "finish_position": "RB4"
+      },
+      {
+        "pick": 5,
+        "round": 1,
+        "player": "CeeDee Lamb (WR - DAL)",
+        "position": "WR",
+        "team": "nassahkhan",
+        "total_points": 199.5,
+        "finish_position": "WR15"
+      },
+      {
+        "pick": 6,
+        "round": 1,
+        "player": "Justin Jefferson (WR - MIN)",
+        "position": "WR",
+        "team": "fawwadkhan23",
+        "total_points": 183.1,
+        "finish_position": "WR23"
+      },
+      {
+        "pick": 7,
+        "round": 1,
+        "player": "Amon-Ra St. Brown (WR - DET)",
+        "position": "WR",
+        "team": "jalebibaby",
+        "total_points": 299.1,
+        "finish_position": "WR3"
+      },
+      {
+        "pick": 8,
+        "round": 1,
+        "player": "Christian McCaffrey (RB - SF)",
+        "position": "RB",
+        "team": "omaruddin",
+        "total_points": 404.9,
+        "finish_position": "RB1"
+      },
+      {
+        "pick": 9,
+        "round": 1,
+        "player": "Derrick Henry (RB - BAL)",
+        "position": "RB",
+        "team": "Sohaibenator",
+        "total_points": 266.9,
+        "finish_position": "RB7"
+      },
+      {
+        "pick": 10,
+        "round": 1,
+        "player": "Malik Nabers (WR - NYG)",
+        "position": "WR",
+        "team": "bambuboy",
+        "total_points": 57.1,
+        "finish_position": "WR47"
+      },
+      {
+        "pick": 11,
+        "round": 2,
+        "player": "Ashton Jeanty (RB - LV)",
+        "position": "RB",
+        "team": "bambuboy",
+        "total_points": 232.7,
+        "finish_position": "RB13"
+      },
+      {
+        "pick": 12,
+        "round": 2,
+        "player": "Drake London (WR - ATL)",
+        "position": "WR",
+        "team": "Sohaibenator",
+        "total_points": 184.1,
+        "finish_position": "WR22"
+      },
+      {
+        "pick": 13,
+        "round": 2,
+        "player": "Puka Nacua (WR - LAR)",
+        "position": "WR",
+        "team": "omaruddin",
+        "total_points": 349.0,
+        "finish_position": "WR1"
+      },
+      {
+        "pick": 14,
+        "round": 2,
+        "player": "Nico Collins (WR - HOU)",
+        "position": "WR",
+        "team": "jalebibaby",
+        "total_points": 226.2,
+        "finish_position": "WR7"
+      },
+      {
+        "pick": 15,
+        "round": 2,
+        "player": "Bucky Irving (RB - TB)",
+        "position": "RB",
+        "team": "fawwadkhan23",
+        "total_points": 127.7,
+        "finish_position": "RB28"
+      },
+      {
+        "pick": 16,
+        "round": 2,
+        "player": "Jonathan Taylor (RB - IND)",
+        "position": "RB",
+        "team": "nassahkhan",
+        "total_points": 356.4,
+        "finish_position": "RB3"
+      },
+      {
+        "pick": 17,
+        "round": 2,
+        "player": "Brian Thomas (WR - JAX)",
+        "position": "WR",
+        "team": "omk10693",
+        "total_points": 130.9,
+        "finish_position": "WR34"
+      },
+      {
+        "pick": 18,
+        "round": 2,
+        "player": "A.J. Brown (WR - PHI)",
+        "position": "WR",
+        "team": "GopiAloo",
+        "total_points": 220.3,
+        "finish_position": "WR9"
+      },
+      {
+        "pick": 19,
+        "round": 2,
+        "player": "Josh Jacobs (RB - GB)",
+        "position": "RB",
+        "team": "aiman23",
+        "total_points": 237.1,
+        "finish_position": "RB12"
+      },
+      {
+        "pick": 20,
+        "round": 2,
+        "player": "Chase Brown (RB - CIN)",
+        "position": "RB",
+        "team": "irtazaraza",
+        "total_points": 263.6,
+        "finish_position": "RB8"
+      },
+      {
+        "pick": 21,
+        "round": 3,
+        "player": "De'Von Achane (RB - MIA)",
+        "position": "RB",
+        "team": "irtazaraza",
+        "total_points": 322.8,
+        "finish_position": "RB5"
+      },
+      {
+        "pick": 22,
+        "round": 3,
+        "player": "Tee Higgins (WR - CIN)",
+        "position": "WR",
+        "team": "aiman23",
+        "total_points": 192.9,
+        "finish_position": "WR19"
+      },
+      {
+        "pick": 23,
+        "round": 3,
+        "player": "Kyren Williams (RB - LAR)",
+        "position": "RB",
+        "team": "GopiAloo",
+        "total_points": 252.2,
+        "finish_position": "RB9"
+      },
+      {
+        "pick": 24,
+        "round": 3,
+        "player": "Ladd McConkey (WR - LAC)",
+        "position": "WR",
+        "team": "omk10693",
+        "total_points": 180.9,
+        "finish_position": "WR24"
+      },
+      {
+        "pick": 25,
+        "round": 3,
+        "player": "Alvin Kamara (RB - NO)",
+        "position": "RB",
+        "team": "nassahkhan",
+        "total_points": 100.7,
+        "finish_position": "RB34"
+      },
+      {
+        "pick": 26,
+        "round": 3,
+        "player": "Brock Bowers (TE - LV)",
+        "position": "TE",
+        "team": "fawwadkhan23",
+        "total_points": 176.2,
+        "finish_position": "TE6"
+      },
+      {
+        "pick": 27,
+        "round": 3,
+        "player": "James Cook (RB - BUF)",
+        "position": "RB",
+        "team": "jalebibaby",
+        "total_points": 300.7,
+        "finish_position": "RB6"
+      },
+      {
+        "pick": 28,
+        "round": 3,
+        "player": "Omarion Hampton (RB - LAC)",
+        "position": "RB",
+        "team": "omaruddin",
+        "total_points": 135.7,
+        "finish_position": "RB26"
+      },
+      {
+        "pick": 29,
+        "round": 3,
+        "player": "Chuba Hubbard (RB - CAR)",
+        "position": "RB",
+        "team": "Sohaibenator",
+        "total_points": 82.0,
+        "finish_position": "RB38"
+      },
+      {
+        "pick": 30,
+        "round": 3,
+        "player": "Trey McBride (TE - ARI)",
+        "position": "TE",
+        "team": "bambuboy",
+        "total_points": 302.4,
+        "finish_position": "TE1"
+      }
+    ]
+  },
+  "playoff_performers": [
+    {
+      "player": "Bijan Robinson (RB - ATL)",
+      "team": "GopiAloo",
+      "total_points": 99.2,
+      "avg_per_week": 33.1,
+      "is_free_agent": false
+    },
+    {
+      "player": "Brock Purdy (QB - SF)",
+      "team": "bambuboy",
+      "total_points": 96.0,
+      "avg_per_week": 32.0,
+      "is_free_agent": false
+    },
+    {
+      "player": "Puka Nacua (WR - LAR)",
+      "team": "omaruddin",
+      "total_points": 90.1,
+      "avg_per_week": 30.0,
+      "is_free_agent": false
+    },
+    {
+      "player": "Chris Olave (WR - NO)",
+      "team": "aiman23",
+      "total_points": 83.2,
+      "avg_per_week": 27.7,
+      "is_free_agent": false
+    },
+    {
+      "player": "Drake Maye (QB - NE)",
+      "team": "GopiAloo",
+      "total_points": 78.6,
+      "avg_per_week": 26.2,
+      "is_free_agent": false
+    },
+    {
+      "player": "Derrick Henry (RB - BAL)",
+      "team": "bambuboy",
+      "total_points": 78.4,
+      "avg_per_week": 26.1,
+      "is_free_agent": false
+    },
+    {
+      "player": "Chase Brown (RB - CIN)",
+      "team": "irtazaraza",
+      "total_points": 78.0,
+      "avg_per_week": 26.0,
+      "is_free_agent": false
+    },
+    {
+      "player": "Christian McCaffrey (RB - SF)",
+      "team": "omaruddin",
+      "total_points": 76.4,
+      "avg_per_week": 25.5,
+      "is_free_agent": false
+    },
+    {
+      "player": "Matthew Stafford (QB - LAR)",
+      "team": "omk10693",
+      "total_points": 68.6,
+      "avg_per_week": 22.9,
+      "is_free_agent": false
+    },
+    {
+      "player": "Ja'Marr Chase (WR - CIN)",
+      "team": "irtazaraza",
+      "total_points": 68.1,
+      "avg_per_week": 22.7,
+      "is_free_agent": false
+    }
+  ],
+  "playoff_snub": {
+    "team": "nassahkhan",
+    "points_for": 1668.1,
+    "wins": 7,
+    "losses": 7
+  },
+  "team_playoff_rankings": [
+    {
+      "team": "jalebibaby",
+      "playoff_total": 406.4,
+      "playoff_avg": 135.5,
+      "regular_avg": 125.3,
+      "diff_from_regular": 10.2,
+      "weeks_played": 3
+    },
+    {
+      "team": "fawwadkhan23",
+      "playoff_total": 320.5,
+      "playoff_avg": 106.8,
+      "regular_avg": 120.0,
+      "diff_from_regular": -13.2,
+      "weeks_played": 3
+    },
+    {
+      "team": "aiman23",
+      "playoff_total": 317.7,
+      "playoff_avg": 158.9,
+      "regular_avg": 112.2,
+      "diff_from_regular": 46.7,
+      "weeks_played": 2
+    },
+    {
+      "team": "irtazaraza",
+      "playoff_total": 289.1,
+      "playoff_avg": 144.6,
+      "regular_avg": 142.7,
+      "diff_from_regular": 1.8,
+      "weeks_played": 2
+    },
+    {
+      "team": "GopiAloo",
+      "playoff_total": 277.0,
+      "playoff_avg": 138.5,
+      "regular_avg": 127.2,
+      "diff_from_regular": 11.3,
+      "weeks_played": 2
+    },
+    {
+      "team": "omaruddin",
+      "playoff_total": 273.1,
+      "playoff_avg": 136.5,
+      "regular_avg": 126.0,
+      "diff_from_regular": 10.5,
+      "weeks_played": 2
+    },
+    {
+      "team": "Sohaibenator",
+      "playoff_total": 257.7,
+      "playoff_avg": 128.9,
+      "regular_avg": 100.7,
+      "diff_from_regular": 28.1,
+      "weeks_played": 2
+    },
+    {
+      "team": "bambuboy",
+      "playoff_total": 245.9,
+      "playoff_avg": 123.0,
+      "regular_avg": 113.3,
+      "diff_from_regular": 9.6,
+      "weeks_played": 2
+    },
+    {
+      "team": "omk10693",
+      "playoff_total": 242.3,
+      "playoff_avg": 121.1,
+      "regular_avg": 116.6,
+      "diff_from_regular": 4.5,
+      "weeks_played": 2
+    },
+    {
+      "team": "nassahkhan",
+      "playoff_total": 210.0,
+      "playoff_avg": 105.0,
+      "regular_avg": 119.1,
+      "diff_from_regular": -14.1,
+      "weeks_played": 2
+    }
+  ],
+  "best_playoff_week": {
+    "team": "jalebibaby",
+    "week": 15,
+    "points": 195.6
+  },
+  "worst_playoff_week": {
+    "team": "bambuboy",
+    "week": 15,
+    "points": 91.9
+  },
+  "team_playoff_consistency": [
+    {
+      "team": "GopiAloo",
+      "consistency": 99.9,
+      "std_dev": 0.1,
+      "avg_points": 138.5
+    },
+    {
+      "team": "Sohaibenator",
+      "consistency": 94.2,
+      "std_dev": 7.5,
+      "avg_points": 128.9
+    },
+    {
+      "team": "nassahkhan",
+      "consistency": 93.0,
+      "std_dev": 7.4,
+      "avg_points": 105.0
+    },
+    {
+      "team": "fawwadkhan23",
+      "consistency": 92.6,
+      "std_dev": 7.9,
+      "avg_points": 106.8
+    },
+    {
+      "team": "omk10693",
+      "consistency": 91.5,
+      "std_dev": 10.3,
+      "avg_points": 121.1
+    },
+    {
+      "team": "irtazaraza",
+      "consistency": 86.4,
+      "std_dev": 19.7,
+      "avg_points": 144.6
+    },
+    {
+      "team": "aiman23",
+      "consistency": 84.6,
+      "std_dev": 24.5,
+      "avg_points": 158.9
+    },
+    {
+      "team": "omaruddin",
+      "consistency": 76.4,
+      "std_dev": 32.2,
+      "avg_points": 136.5
+    },
+    {
+      "team": "bambuboy",
+      "consistency": 74.7,
+      "std_dev": 31.0,
+      "avg_points": 123.0
+    },
+    {
+      "team": "jalebibaby",
+      "consistency": 68.5,
+      "std_dev": 42.7,
+      "avg_points": 135.5
+    }
+  ],
+  "awards": {
+    "mvp_pickup": {
+      "team": "GopiAloo",
+      "week": 3,
+      "player": "Drake Maye (QB - NE)",
+      "total_points": 280.9,
+      "avg_per_week": 20.1,
+      "weeks_owned": 14
+    },
+    "draft_steal": {
+      "team": "nassahkhan",
+      "player": "Drake Maye (QB - NE)",
+      "position": "QB",
+      "pick": 125,
+      "round": 13,
+      "total_points": 297.7,
+      "finish_position": "QB3",
+      "adp": 125
+    },
+    "draft_bust": {
+      "team": "bambuboy",
+      "player": "Malik Nabers (WR - NYG)",
+      "position": "WR",
+      "pick": 10,
+      "round": 1,
+      "total_points": 57.1,
+      "finish_position": "WR47",
+      "adp": 10
+    },
+    "taco": {
+      "team": "Sohaibenator",
+      "efficiency": 81.2,
+      "points_left": 386.8
+    },
+    "consistency_king": {
+      "team": "irtazaraza",
+      "consistency": 86.0,
+      "std_dev": 20.0
+    },
+    "boom_bust_king": {
+      "team": "Sohaibenator",
+      "std_dev": 28.4,
+      "high": 172.8,
+      "low": 59.2
+    },
+    "dominance": {
+      "team": "GopiAloo",
+      "weekly_wins": 5
+    },
+    "cardiac_kid": {
+      "team": "omaruddin",
+      "close_wins": 2
+    },
+    "heartbreaker": {
+      "team": "omk10693",
+      "close_losses": 3
+    },
+    "vulture": {
+      "team": "bambuboy",
+      "wins_below_avg": 5
+    },
+    "point_miser": {
+      "team": "bambuboy",
+      "lowest_win": 85.2
+    },
+    "benchwarmer_mvp": {
+      "player": "Jared Goff (QB - DET)",
+      "bench_points": 277.5
+    }
+  },
+  "what_if_scenarios": [
+    {
+      "team": "bambuboy",
+      "actual_wins": 7,
+      "actual_losses": 7,
+      "optimal_wins": 9,
+      "optimal_losses": 5,
+      "worst_wins": 4,
+      "worst_losses": 10,
+      "all_play_wins": 48,
+      "all_play_losses": 78,
+      "unlucky_losses": [
+        {
+          "week": 3,
+          "opponent": "fawwadkhan23",
+          "actual": 100.6,
+          "optimal": 135.7,
+          "opponent_score": 128.3,
+          "points_left": 35.1
+        },
+        {
+          "week": 1,
+          "opponent": "omaruddin",
+          "actual": 111.8,
+          "optimal": 135.3,
+          "opponent_score": 114.8,
+          "points_left": 23.5
+        }
+      ]
+    },
+    {
+      "team": "aiman23",
+      "actual_wins": 4,
+      "actual_losses": 10,
+      "optimal_wins": 7,
+      "optimal_losses": 7,
+      "worst_wins": 1,
+      "worst_losses": 13,
+      "all_play_wins": 47,
+      "all_play_losses": 79,
+      "unlucky_losses": [
+        {
+          "week": 1,
+          "opponent": "GopiAloo",
+          "actual": 96.0,
+          "optimal": 148.4,
+          "opponent_score": 103.3,
+          "points_left": 52.4
+        },
+        {
+          "week": 4,
+          "opponent": "fawwadkhan23",
+          "actual": 131.2,
+          "optimal": 162.1,
+          "opponent_score": 138.0,
+          "points_left": 30.9
+        },
+        {
+          "week": 11,
+          "opponent": "jalebibaby",
+          "actual": 118.9,
+          "optimal": 130.7,
+          "opponent_score": 129.8,
+          "points_left": 11.8
+        }
+      ]
+    },
+    {
+      "team": "omaruddin",
+      "actual_wins": 7,
+      "actual_losses": 7,
+      "optimal_wins": 10,
+      "optimal_losses": 4,
+      "worst_wins": 5,
+      "worst_losses": 9,
+      "all_play_wins": 74,
+      "all_play_losses": 52,
+      "unlucky_losses": [
+        {
+          "week": 2,
+          "opponent": "fawwadkhan23",
+          "actual": 111.6,
+          "optimal": 152.7,
+          "opponent_score": 118.0,
+          "points_left": 41.1
+        },
+        {
+          "week": 5,
+          "opponent": "Sohaibenator",
+          "actual": 123.4,
+          "optimal": 145.2,
+          "opponent_score": 133.7,
+          "points_left": 21.8
+        },
+        {
+          "week": 11,
+          "opponent": "fawwadkhan23",
+          "actual": 105.2,
+          "optimal": 107.1,
+          "opponent_score": 105.8,
+          "points_left": 1.9
+        }
+      ]
+    },
+    {
+      "team": "GopiAloo",
+      "actual_wins": 9,
+      "actual_losses": 5,
+      "optimal_wins": 12,
+      "optimal_losses": 2,
+      "worst_wins": 5,
+      "worst_losses": 9,
+      "all_play_wins": 74,
+      "all_play_losses": 52,
+      "unlucky_losses": [
+        {
+          "week": 4,
+          "opponent": "irtazaraza",
+          "actual": 109.9,
+          "optimal": 154.9,
+          "opponent_score": 124.7,
+          "points_left": 45.0
+        },
+        {
+          "week": 3,
+          "opponent": "jalebibaby",
+          "actual": 121.4,
+          "optimal": 159.0,
+          "opponent_score": 121.5,
+          "points_left": 37.6
+        },
+        {
+          "week": 10,
+          "opponent": "aiman23",
+          "actual": 109.5,
+          "optimal": 135.7,
+          "opponent_score": 124.3,
+          "points_left": 26.2
+        }
+      ]
+    },
+    {
+      "team": "jalebibaby",
+      "actual_wins": 8,
+      "actual_losses": 6,
+      "optimal_wins": 12,
+      "optimal_losses": 2,
+      "worst_wins": 2,
+      "worst_losses": 12,
+      "all_play_wins": 70,
+      "all_play_losses": 56,
+      "unlucky_losses": [
+        {
+          "week": 12,
+          "opponent": "GopiAloo",
+          "actual": 112.7,
+          "optimal": 161.1,
+          "opponent_score": 135.7,
+          "points_left": 48.4
+        },
+        {
+          "week": 13,
+          "opponent": "omaruddin",
+          "actual": 109.6,
+          "optimal": 143.3,
+          "opponent_score": 139.7,
+          "points_left": 33.6
+        },
+        {
+          "week": 10,
+          "opponent": "Sohaibenator",
+          "actual": 116.0,
+          "optimal": 139.3,
+          "opponent_score": 119.4,
+          "points_left": 23.3
+        },
+        {
+          "week": 5,
+          "opponent": "bambuboy",
+          "actual": 106.7,
+          "optimal": 127.1,
+          "opponent_score": 110.9,
+          "points_left": 20.4
+        }
+      ]
+    },
+    {
+      "team": "nassahkhan",
+      "actual_wins": 7,
+      "actual_losses": 7,
+      "optimal_wins": 9,
+      "optimal_losses": 5,
+      "worst_wins": 4,
+      "worst_losses": 10,
+      "all_play_wins": 70,
+      "all_play_losses": 56,
+      "unlucky_losses": [
+        {
+          "week": 7,
+          "opponent": "fawwadkhan23",
+          "actual": 118.4,
+          "optimal": 161.2,
+          "opponent_score": 141.7,
+          "points_left": 42.8
+        },
+        {
+          "week": 4,
+          "opponent": "omk10693",
+          "actual": 106.8,
+          "optimal": 125.2,
+          "opponent_score": 113.8,
+          "points_left": 18.4
+        }
+      ]
+    },
+    {
+      "team": "fawwadkhan23",
+      "actual_wins": 8,
+      "actual_losses": 6,
+      "optimal_wins": 8,
+      "optimal_losses": 6,
+      "worst_wins": 4,
+      "worst_losses": 10,
+      "all_play_wins": 65,
+      "all_play_losses": 61,
+      "unlucky_losses": []
+    },
+    {
+      "team": "irtazaraza",
+      "actual_wins": 11,
+      "actual_losses": 3,
+      "optimal_wins": 14,
+      "optimal_losses": 0,
+      "worst_wins": 6,
+      "worst_losses": 8,
+      "all_play_wins": 100,
+      "all_play_losses": 26,
+      "unlucky_losses": [
+        {
+          "week": 1,
+          "opponent": "nassahkhan",
+          "actual": 116.0,
+          "optimal": 146.6,
+          "opponent_score": 119.7,
+          "points_left": 30.6
+        },
+        {
+          "week": 13,
+          "opponent": "GopiAloo",
+          "actual": 142.0,
+          "optimal": 166.2,
+          "opponent_score": 143.1,
+          "points_left": 24.2
+        },
+        {
+          "week": 3,
+          "opponent": "aiman23",
+          "actual": 106.8,
+          "optimal": 128.7,
+          "opponent_score": 128.1,
+          "points_left": 21.9
+        }
+      ]
+    },
+    {
+      "team": "omk10693",
+      "actual_wins": 4,
+      "actual_losses": 10,
+      "optimal_wins": 11,
+      "optimal_losses": 3,
+      "worst_wins": 3,
+      "worst_losses": 11,
+      "all_play_wins": 54,
+      "all_play_losses": 72,
+      "unlucky_losses": [
+        {
+          "week": 3,
+          "opponent": "omaruddin",
+          "actual": 109.5,
+          "optimal": 151.3,
+          "opponent_score": 109.8,
+          "points_left": 41.8
+        },
+        {
+          "week": 14,
+          "opponent": "irtazaraza",
+          "actual": 130.1,
+          "optimal": 166.2,
+          "opponent_score": 140.4,
+          "points_left": 36.1
+        },
+        {
+          "week": 13,
+          "opponent": "nassahkhan",
+          "actual": 105.8,
+          "optimal": 138.1,
+          "opponent_score": 127.2,
+          "points_left": 32.2
+        },
+        {
+          "week": 8,
+          "opponent": "aiman23",
+          "actual": 113.0,
+          "optimal": 140.9,
+          "opponent_score": 140.6,
+          "points_left": 27.9
+        },
+        {
+          "week": 9,
+          "opponent": "GopiAloo",
+          "actual": 97.7,
+          "optimal": 120.0,
+          "opponent_score": 110.8,
+          "points_left": 22.3
+        }
+      ]
+    },
+    {
+      "team": "Sohaibenator",
+      "actual_wins": 5,
+      "actual_losses": 9,
+      "optimal_wins": 9,
+      "optimal_losses": 5,
+      "worst_wins": 2,
+      "worst_losses": 12,
+      "all_play_wins": 28,
+      "all_play_losses": 98,
+      "unlucky_losses": [
+        {
+          "week": 4,
+          "opponent": "bambuboy",
+          "actual": 98.7,
+          "optimal": 145.4,
+          "opponent_score": 122.2,
+          "points_left": 46.7
+        },
+        {
+          "week": 1,
+          "opponent": "jalebibaby",
+          "actual": 107.6,
+          "optimal": 147.3,
+          "opponent_score": 115.5,
+          "points_left": 39.7
+        },
+        {
+          "week": 13,
+          "opponent": "bambuboy",
+          "actual": 88.7,
+          "optimal": 124.8,
+          "opponent_score": 98.5,
+          "points_left": 36.1
+        },
+        {
+          "week": 7,
+          "opponent": "aiman23",
+          "actual": 91.7,
+          "optimal": 115.1,
+          "opponent_score": 103.6,
+          "points_left": 23.4
+        }
+      ]
+    }
+  ],
+  "draft_do_over": [
+    {
+      "team": "fawwadkhan23",
+      "actual_wins": 8,
+      "actual_losses": 6,
+      "optimal_draft_wins": 9,
+      "optimal_draft_losses": 5,
+      "actual_draft_points": 1456.3,
+      "optimal_draft_points": 1760.8,
+      "points_improvement": 304.5
+    },
+    {
+      "team": "Sohaibenator",
+      "actual_wins": 5,
+      "actual_losses": 9,
+      "optimal_draft_wins": 8,
+      "optimal_draft_losses": 6,
+      "actual_draft_points": 1469.3,
+      "optimal_draft_points": 1733.7,
+      "points_improvement": 264.4
+    },
+    {
+      "team": "omk10693",
+      "actual_wins": 4,
+      "actual_losses": 10,
+      "optimal_draft_wins": 10,
+      "optimal_draft_losses": 4,
+      "actual_draft_points": 1607.1,
+      "optimal_draft_points": 1790.2,
+      "points_improvement": 183.1
+    },
+    {
+      "team": "omaruddin",
+      "actual_wins": 7,
+      "actual_losses": 7,
+      "optimal_draft_wins": 10,
+      "optimal_draft_losses": 4,
+      "actual_draft_points": 1588.6,
+      "optimal_draft_points": 1745.6,
+      "points_improvement": 157.0
+    },
+    {
+      "team": "aiman23",
+      "actual_wins": 4,
+      "actual_losses": 10,
+      "optimal_draft_wins": 7,
+      "optimal_draft_losses": 7,
+      "actual_draft_points": 1679.2,
+      "optimal_draft_points": 1812.8,
+      "points_improvement": 133.7
+    },
+    {
+      "team": "GopiAloo",
+      "actual_wins": 9,
+      "actual_losses": 5,
+      "optimal_draft_wins": 8,
+      "optimal_draft_losses": 6,
+      "actual_draft_points": 1879.3,
+      "optimal_draft_points": 1800.5,
+      "points_improvement": -78.7
+    },
+    {
+      "team": "jalebibaby",
+      "actual_wins": 8,
+      "actual_losses": 6,
+      "optimal_draft_wins": 4,
+      "optimal_draft_losses": 10,
+      "actual_draft_points": 1954.1,
+      "optimal_draft_points": 1754.7,
+      "points_improvement": -199.4
+    },
+    {
+      "team": "nassahkhan",
+      "actual_wins": 7,
+      "actual_losses": 7,
+      "optimal_draft_wins": 4,
+      "optimal_draft_losses": 10,
+      "actual_draft_points": 2013.0,
+      "optimal_draft_points": 1776.1,
+      "points_improvement": -237.0
+    },
+    {
+      "team": "irtazaraza",
+      "actual_wins": 11,
+      "actual_losses": 3,
+      "optimal_draft_wins": 8,
+      "optimal_draft_losses": 6,
+      "actual_draft_points": 2066.9,
+      "optimal_draft_points": 1812.2,
+      "points_improvement": -254.7
+    },
+    {
+      "team": "bambuboy",
+      "actual_wins": 7,
+      "actual_losses": 7,
+      "optimal_draft_wins": 3,
+      "optimal_draft_losses": 11,
+      "actual_draft_points": 2016.6,
+      "optimal_draft_points": 1743.6,
+      "points_improvement": -273.0
+    }
+  ],
+  "power_rankings": [
+    {
+      "week": 1,
+      "rankings": [
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 137.3,
+          "recent_avg": 137.3,
+          "power_score": 137.3,
+          "total_points": 137.3,
+          "rank": 1
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 119.7,
+          "recent_avg": 119.7,
+          "power_score": 119.7,
+          "total_points": 119.7,
+          "rank": 2
+        },
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 116.0,
+          "recent_avg": 116.0,
+          "power_score": 116.0,
+          "total_points": 116.0,
+          "rank": 3
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 115.5,
+          "recent_avg": 115.5,
+          "power_score": 115.5,
+          "total_points": 115.5,
+          "rank": 4
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 114.8,
+          "recent_avg": 114.8,
+          "power_score": 114.8,
+          "total_points": 114.8,
+          "rank": 5
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 111.8,
+          "recent_avg": 111.8,
+          "power_score": 111.8,
+          "total_points": 111.8,
+          "rank": 6
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 107.6,
+          "recent_avg": 107.6,
+          "power_score": 107.6,
+          "total_points": 107.6,
+          "rank": 7
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 103.3,
+          "recent_avg": 103.3,
+          "power_score": 103.3,
+          "total_points": 103.3,
+          "rank": 8
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 96.4,
+          "recent_avg": 96.4,
+          "power_score": 96.4,
+          "total_points": 96.4,
+          "rank": 9
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 96.0,
+          "recent_avg": 96.0,
+          "power_score": 96.0,
+          "total_points": 96.0,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 136.5,
+          "recent_avg": 136.5,
+          "power_score": 136.5,
+          "total_points": 273.1,
+          "rank": 1
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 132.8,
+          "recent_avg": 132.8,
+          "power_score": 132.8,
+          "total_points": 265.6,
+          "rank": 2
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 129.1,
+          "recent_avg": 129.1,
+          "power_score": 129.1,
+          "total_points": 258.2,
+          "rank": 3
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 127.6,
+          "recent_avg": 127.6,
+          "power_score": 127.6,
+          "total_points": 255.3,
+          "rank": 4
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 125.4,
+          "recent_avg": 125.4,
+          "power_score": 125.4,
+          "total_points": 250.8,
+          "rank": 5
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 113.2,
+          "recent_avg": 113.2,
+          "power_score": 113.2,
+          "total_points": 226.4,
+          "rank": 6
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 112.6,
+          "recent_avg": 112.6,
+          "power_score": 112.6,
+          "total_points": 225.1,
+          "rank": 7
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 105.3,
+          "recent_avg": 105.3,
+          "power_score": 105.3,
+          "total_points": 210.7,
+          "rank": 8
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 98.1,
+          "recent_avg": 98.1,
+          "power_score": 98.1,
+          "total_points": 196.2,
+          "rank": 9
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 95.4,
+          "recent_avg": 95.4,
+          "power_score": 95.4,
+          "total_points": 190.8,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "rankings": [
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 129.0,
+          "recent_avg": 129.0,
+          "power_score": 129.0,
+          "total_points": 387.1,
+          "rank": 1
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 129.0,
+          "recent_avg": 129.0,
+          "power_score": 129.0,
+          "total_points": 386.9,
+          "rank": 2
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 127.9,
+          "recent_avg": 127.9,
+          "power_score": 127.9,
+          "total_points": 383.6,
+          "rank": 3
+        },
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 126.6,
+          "recent_avg": 126.6,
+          "power_score": 126.6,
+          "total_points": 379.9,
+          "rank": 4
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 117.8,
+          "recent_avg": 117.8,
+          "power_score": 117.8,
+          "total_points": 353.3,
+          "rank": 5
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 117.1,
+          "recent_avg": 117.1,
+          "power_score": 117.1,
+          "total_points": 351.4,
+          "rank": 6
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 112.1,
+          "recent_avg": 112.1,
+          "power_score": 112.1,
+          "total_points": 336.3,
+          "rank": 7
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 110.7,
+          "recent_avg": 110.7,
+          "power_score": 110.7,
+          "total_points": 332.1,
+          "rank": 8
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 100.1,
+          "recent_avg": 100.1,
+          "power_score": 100.1,
+          "total_points": 300.3,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 94.4,
+          "recent_avg": 94.4,
+          "power_score": 94.4,
+          "total_points": 283.3,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "rankings": [
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 141.3,
+          "recent_avg": 149.9,
+          "power_score": 143.9,
+          "total_points": 565.2,
+          "rank": 1
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 130.4,
+          "recent_avg": 128.1,
+          "power_score": 129.7,
+          "total_points": 521.6,
+          "rank": 2
+        },
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 126.1,
+          "recent_avg": 129.5,
+          "power_score": 127.2,
+          "total_points": 504.5,
+          "rank": 3
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 123.4,
+          "recent_avg": 124.6,
+          "power_score": 123.8,
+          "total_points": 493.7,
+          "rank": 4
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 121.1,
+          "recent_avg": 129.5,
+          "power_score": 123.6,
+          "total_points": 484.5,
+          "rank": 5
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 120.5,
+          "recent_avg": 122.3,
+          "power_score": 121.0,
+          "total_points": 481.9,
+          "rank": 6
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 118.4,
+          "recent_avg": 120.6,
+          "power_score": 119.1,
+          "total_points": 473.6,
+          "rank": 7
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 110.5,
+          "recent_avg": 112.9,
+          "power_score": 111.2,
+          "total_points": 441.9,
+          "rank": 8
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 103.5,
+          "recent_avg": 105.9,
+          "power_score": 104.2,
+          "total_points": 414.1,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 95.5,
+          "recent_avg": 91.5,
+          "power_score": 94.3,
+          "total_points": 382.0,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "rankings": [
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 134.4,
+          "recent_avg": 135.4,
+          "power_score": 134.7,
+          "total_points": 671.9,
+          "rank": 1
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 127.3,
+          "recent_avg": 127.0,
+          "power_score": 127.2,
+          "total_points": 636.4,
+          "rank": 2
+        },
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 128.2,
+          "recent_avg": 122.7,
+          "power_score": 126.6,
+          "total_points": 641.1,
+          "rank": 3
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 126.8,
+          "recent_avg": 125.3,
+          "power_score": 126.4,
+          "total_points": 634.2,
+          "rank": 4
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 121.0,
+          "recent_avg": 126.3,
+          "power_score": 122.6,
+          "total_points": 605.2,
+          "rank": 5
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 120.5,
+          "recent_avg": 125.8,
+          "power_score": 122.1,
+          "total_points": 602.5,
+          "rank": 6
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 118.5,
+          "recent_avg": 127.2,
+          "power_score": 121.1,
+          "total_points": 592.3,
+          "rank": 7
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 116.9,
+          "recent_avg": 111.3,
+          "power_score": 115.2,
+          "total_points": 584.6,
+          "rank": 8
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 109.2,
+          "recent_avg": 118.4,
+          "power_score": 112.0,
+          "total_points": 546.2,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 103.1,
+          "recent_avg": 106.5,
+          "power_score": 104.1,
+          "total_points": 515.7,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 133.5,
+          "recent_avg": 140.3,
+          "power_score": 135.5,
+          "total_points": 800.7,
+          "rank": 1
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 130.8,
+          "recent_avg": 132.6,
+          "power_score": 131.3,
+          "total_points": 784.8,
+          "rank": 2
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 124.1,
+          "recent_avg": 137.4,
+          "power_score": 128.1,
+          "total_points": 744.4,
+          "rank": 3
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 121.8,
+          "recent_avg": 131.5,
+          "power_score": 124.7,
+          "total_points": 730.7,
+          "rank": 4
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 122.4,
+          "recent_avg": 115.8,
+          "power_score": 120.4,
+          "total_points": 734.2,
+          "rank": 5
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 118.7,
+          "recent_avg": 120.2,
+          "power_score": 119.2,
+          "total_points": 712.1,
+          "rank": 6
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 120.9,
+          "recent_avg": 114.0,
+          "power_score": 118.8,
+          "total_points": 725.5,
+          "rank": 7
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 114.2,
+          "recent_avg": 110.6,
+          "power_score": 113.1,
+          "total_points": 685.1,
+          "rank": 8
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 108.5,
+          "recent_avg": 116.9,
+          "power_score": 111.0,
+          "total_points": 650.9,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 104.3,
+          "recent_avg": 114.2,
+          "power_score": 107.3,
+          "total_points": 626.1,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 133.7,
+          "recent_avg": 143.9,
+          "power_score": 136.8,
+          "total_points": 936.2,
+          "rank": 1
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 128.0,
+          "recent_avg": 151.3,
+          "power_score": 135.0,
+          "total_points": 895.8,
+          "rank": 2
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 127.9,
+          "recent_avg": 110.0,
+          "power_score": 122.5,
+          "total_points": 895.1,
+          "rank": 3
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 123.9,
+          "recent_avg": 115.2,
+          "power_score": 121.3,
+          "total_points": 867.2,
+          "rank": 4
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 121.8,
+          "recent_avg": 119.6,
+          "power_score": 121.2,
+          "total_points": 852.6,
+          "rank": 5
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 120.3,
+          "recent_avg": 120.0,
+          "power_score": 120.2,
+          "total_points": 842.0,
+          "rank": 6
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 114.4,
+          "recent_avg": 128.8,
+          "power_score": 118.7,
+          "total_points": 800.7,
+          "rank": 7
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 116.8,
+          "recent_avg": 114.6,
+          "power_score": 116.1,
+          "total_points": 817.3,
+          "rank": 8
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 112.7,
+          "recent_avg": 101.4,
+          "power_score": 109.3,
+          "total_points": 788.7,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 102.5,
+          "recent_avg": 111.9,
+          "power_score": 105.4,
+          "total_points": 717.8,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 137.9,
+          "recent_avg": 154.0,
+          "power_score": 142.7,
+          "total_points": 1103.0,
+          "rank": 1
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 126.4,
+          "recent_avg": 139.5,
+          "power_score": 130.3,
+          "total_points": 1010.9,
+          "rank": 2
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 131.7,
+          "recent_avg": 127.1,
+          "power_score": 130.3,
+          "total_points": 1053.2,
+          "rank": 3
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 124.5,
+          "recent_avg": 120.5,
+          "power_score": 123.3,
+          "total_points": 995.7,
+          "rank": 4
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 118.7,
+          "recent_avg": 121.7,
+          "power_score": 119.6,
+          "total_points": 949.6,
+          "rank": 5
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 119.4,
+          "recent_avg": 116.6,
+          "power_score": 118.6,
+          "total_points": 955.1,
+          "rank": 6
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 114.2,
+          "recent_avg": 122.5,
+          "power_score": 116.7,
+          "total_points": 913.6,
+          "rank": 7
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 118.8,
+          "recent_avg": 104.6,
+          "power_score": 114.5,
+          "total_points": 950.1,
+          "rank": 8
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 116.2,
+          "recent_avg": 108.9,
+          "power_score": 114.0,
+          "total_points": 929.3,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 98.2,
+          "recent_avg": 90.1,
+          "power_score": 95.8,
+          "total_points": 786.0,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 137.8,
+          "recent_avg": 146.4,
+          "power_score": 140.4,
+          "total_points": 1239.9,
+          "rank": 1
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 129.1,
+          "recent_avg": 125.6,
+          "power_score": 128.0,
+          "total_points": 1161.6,
+          "rank": 2
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 124.6,
+          "recent_avg": 130.1,
+          "power_score": 126.2,
+          "total_points": 1121.0,
+          "rank": 3
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 124.6,
+          "recent_avg": 125.7,
+          "power_score": 125.0,
+          "total_points": 1121.6,
+          "rank": 4
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 123.1,
+          "recent_avg": 124.4,
+          "power_score": 123.5,
+          "total_points": 1107.5,
+          "rank": 5
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 121.6,
+          "recent_avg": 123.0,
+          "power_score": 122.0,
+          "total_points": 1094.6,
+          "rank": 6
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 119.0,
+          "recent_avg": 119.6,
+          "power_score": 119.2,
+          "total_points": 1070.9,
+          "rank": 7
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 112.4,
+          "recent_avg": 120.1,
+          "power_score": 114.7,
+          "total_points": 1011.4,
+          "rank": 8
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 112.7,
+          "recent_avg": 109.7,
+          "power_score": 111.8,
+          "total_points": 1014.1,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 106.5,
+          "recent_avg": 110.9,
+          "power_score": 107.8,
+          "total_points": 958.8,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 142.2,
+          "recent_avg": 161.8,
+          "power_score": 148.0,
+          "total_points": 1421.6,
+          "rank": 1
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 126.1,
+          "recent_avg": 136.2,
+          "power_score": 129.2,
+          "total_points": 1261.3,
+          "rank": 2
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 125.4,
+          "recent_avg": 137.2,
+          "power_score": 128.9,
+          "total_points": 1253.6,
+          "rank": 3
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 127.8,
+          "recent_avg": 127.5,
+          "power_score": 127.7,
+          "total_points": 1277.6,
+          "rank": 4
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 123.1,
+          "recent_avg": 111.8,
+          "power_score": 119.7,
+          "total_points": 1231.1,
+          "rank": 5
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 118.3,
+          "recent_avg": 121.8,
+          "power_score": 119.3,
+          "total_points": 1182.7,
+          "rank": 6
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 118.6,
+          "recent_avg": 106.1,
+          "power_score": 114.8,
+          "total_points": 1185.6,
+          "rank": 7
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 113.8,
+          "recent_avg": 116.6,
+          "power_score": 114.7,
+          "total_points": 1138.4,
+          "rank": 8
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 114.4,
+          "recent_avg": 114.5,
+          "power_score": 114.5,
+          "total_points": 1144.3,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 107.8,
+          "recent_avg": 120.1,
+          "power_score": 111.5,
+          "total_points": 1078.2,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 141.9,
+          "recent_avg": 152.6,
+          "power_score": 145.1,
+          "total_points": 1560.8,
+          "rank": 1
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 123.5,
+          "recent_avg": 134.6,
+          "power_score": 126.8,
+          "total_points": 1358.8,
+          "rank": 2
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 126.2,
+          "recent_avg": 125.6,
+          "power_score": 126.0,
+          "total_points": 1387.8,
+          "rank": 3
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 127.9,
+          "recent_avg": 118.0,
+          "power_score": 125.0,
+          "total_points": 1407.4,
+          "rank": 4
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 122.5,
+          "recent_avg": 117.3,
+          "power_score": 121.0,
+          "total_points": 1347.7,
+          "rank": 5
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 117.4,
+          "recent_avg": 113.8,
+          "power_score": 116.3,
+          "total_points": 1291.4,
+          "rank": 6
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 114.3,
+          "recent_avg": 109.4,
+          "power_score": 112.8,
+          "total_points": 1257.3,
+          "rank": 7
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 115.3,
+          "recent_avg": 106.1,
+          "power_score": 112.5,
+          "total_points": 1267.9,
+          "rank": 8
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 105.2,
+          "recent_avg": 123.8,
+          "power_score": 110.8,
+          "total_points": 1157.3,
+          "rank": 9
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 111.7,
+          "recent_avg": 105.1,
+          "power_score": 109.7,
+          "total_points": 1228.9,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 143.0,
+          "recent_avg": 158.6,
+          "power_score": 147.7,
+          "total_points": 1715.7,
+          "rank": 1
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 127.0,
+          "recent_avg": 133.9,
+          "power_score": 129.0,
+          "total_points": 1523.4,
+          "rank": 2
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 126.7,
+          "recent_avg": 119.5,
+          "power_score": 124.5,
+          "total_points": 1520.1,
+          "rank": 3
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 123.3,
+          "recent_avg": 119.4,
+          "power_score": 122.1,
+          "total_points": 1479.1,
+          "rank": 4
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 116.4,
+          "recent_avg": 128.5,
+          "power_score": 120.1,
+          "total_points": 1397.0,
+          "rank": 5
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 115.8,
+          "recent_avg": 125.3,
+          "power_score": 118.7,
+          "total_points": 1390.1,
+          "rank": 6
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 119.7,
+          "recent_avg": 109.6,
+          "power_score": 116.7,
+          "total_points": 1436.3,
+          "rank": 7
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 116.2,
+          "recent_avg": 107.7,
+          "power_score": 113.6,
+          "total_points": 1393.9,
+          "rank": 8
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 116.8,
+          "recent_avg": 102.3,
+          "power_score": 112.4,
+          "total_points": 1401.3,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 105.2,
+          "recent_avg": 101.2,
+          "power_score": 104.0,
+          "total_points": 1262.2,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 142.9,
+          "recent_avg": 145.4,
+          "power_score": 143.7,
+          "total_points": 1857.7,
+          "rank": 1
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 128.2,
+          "recent_avg": 145.1,
+          "power_score": 133.3,
+          "total_points": 1666.5,
+          "rank": 2
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 124.5,
+          "recent_avg": 121.7,
+          "power_score": 123.7,
+          "total_points": 1618.8,
+          "rank": 3
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 125.4,
+          "recent_avg": 117.4,
+          "power_score": 123.0,
+          "total_points": 1629.7,
+          "rank": 4
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 115.6,
+          "recent_avg": 119.5,
+          "power_score": 116.8,
+          "total_points": 1502.8,
+          "rank": 5
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 120.3,
+          "recent_avg": 100.8,
+          "power_score": 114.4,
+          "total_points": 1563.6,
+          "rank": 6
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 113.4,
+          "recent_avg": 111.9,
+          "power_score": 112.9,
+          "total_points": 1474.1,
+          "rank": 7
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 115.7,
+          "recent_avg": 106.3,
+          "power_score": 112.9,
+          "total_points": 1504.6,
+          "rank": 8
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 114.8,
+          "recent_avg": 103.2,
+          "power_score": 111.3,
+          "total_points": 1492.4,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 103.9,
+          "recent_avg": 90.9,
+          "power_score": 100.0,
+          "total_points": 1351.0,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 142.7,
+          "recent_avg": 145.8,
+          "power_score": 143.6,
+          "total_points": 1998.2,
+          "rank": 1
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 126.0,
+          "recent_avg": 135.1,
+          "power_score": 128.7,
+          "total_points": 1764.1,
+          "rank": 2
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 127.2,
+          "recent_avg": 130.9,
+          "power_score": 128.3,
+          "total_points": 1780.5,
+          "rank": 3
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 120.0,
+          "recent_avg": 129.7,
+          "power_score": 122.9,
+          "total_points": 1680.5,
+          "rank": 4
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 125.3,
+          "recent_avg": 115.5,
+          "power_score": 122.3,
+          "total_points": 1753.8,
+          "rank": 5
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 116.6,
+          "recent_avg": 134.7,
+          "power_score": 122.1,
+          "total_points": 1632.9,
+          "rank": 6
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 119.1,
+          "recent_avg": 106.8,
+          "power_score": 115.4,
+          "total_points": 1668.1,
+          "rank": 7
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 113.3,
+          "recent_avg": 106.2,
+          "power_score": 111.2,
+          "total_points": 1586.5,
+          "rank": 8
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 112.2,
+          "recent_avg": 104.3,
+          "power_score": 109.8,
+          "total_points": 1570.3,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 100.7,
+          "recent_avg": 84.3,
+          "power_score": 95.8,
+          "total_points": 1410.2,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 142.7,
+          "recent_avg": 141.2,
+          "power_score": 142.3,
+          "total_points": 1998.2,
+          "rank": 1
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 130.0,
+          "recent_avg": 143.1,
+          "power_score": 133.9,
+          "total_points": 1949.4,
+          "rank": 2
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 127.2,
+          "recent_avg": 128.5,
+          "power_score": 127.6,
+          "total_points": 1780.5,
+          "rank": 3
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 124.6,
+          "recent_avg": 129.8,
+          "power_score": 126.1,
+          "total_points": 1868.4,
+          "rank": 4
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 119.8,
+          "recent_avg": 132.1,
+          "power_score": 123.5,
+          "total_points": 1797.6,
+          "rank": 5
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 116.9,
+          "recent_avg": 121.2,
+          "power_score": 118.2,
+          "total_points": 1753.6,
+          "rank": 6
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 118.7,
+          "recent_avg": 114.7,
+          "power_score": 117.5,
+          "total_points": 1780.4,
+          "rank": 7
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 116.3,
+          "recent_avg": 115.6,
+          "power_score": 116.1,
+          "total_points": 1743.8,
+          "rank": 8
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 111.9,
+          "recent_avg": 94.9,
+          "power_score": 106.8,
+          "total_points": 1678.4,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 103.1,
+          "recent_avg": 94.7,
+          "power_score": 100.6,
+          "total_points": 1546.5,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 16,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 144.2,
+          "recent_avg": 152.3,
+          "power_score": 146.6,
+          "total_points": 2162.4,
+          "rank": 1
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 128.1,
+          "recent_avg": 140.2,
+          "power_score": 131.8,
+          "total_points": 2050.4,
+          "rank": 2
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 127.3,
+          "recent_avg": 139.4,
+          "power_score": 131.0,
+          "total_points": 2037.2,
+          "rank": 3
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 127.9,
+          "recent_avg": 126.3,
+          "power_score": 127.4,
+          "total_points": 1919.1,
+          "rank": 4
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 118.0,
+          "recent_avg": 138.0,
+          "power_score": 124.0,
+          "total_points": 1888.0,
+          "rank": 5
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 118.9,
+          "recent_avg": 132.9,
+          "power_score": 123.1,
+          "total_points": 1903.2,
+          "rank": 6
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 117.2,
+          "recent_avg": 124.1,
+          "power_score": 119.3,
+          "total_points": 1875.2,
+          "rank": 7
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 114.5,
+          "recent_avg": 113.3,
+          "power_score": 114.2,
+          "total_points": 1832.4,
+          "rank": 8
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 117.4,
+          "recent_avg": 104.8,
+          "power_score": 113.6,
+          "total_points": 1878.1,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 104.2,
+          "recent_avg": 105.6,
+          "power_score": 104.7,
+          "total_points": 1667.9,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "week": 17,
+      "rankings": [
+        {
+          "team": "irtazaraza",
+          "roster_id": 8,
+          "avg_points": 143.0,
+          "recent_avg": 144.6,
+          "power_score": 143.4,
+          "total_points": 2287.3,
+          "rank": 1
+        },
+        {
+          "team": "GopiAloo",
+          "roster_id": 4,
+          "avg_points": 128.6,
+          "recent_avg": 138.5,
+          "power_score": 131.6,
+          "total_points": 2057.5,
+          "rank": 2
+        },
+        {
+          "team": "aiman23",
+          "roster_id": 2,
+          "avg_points": 118.0,
+          "recent_avg": 158.9,
+          "power_score": 130.3,
+          "total_points": 1888.0,
+          "rank": 3
+        },
+        {
+          "team": "omaruddin",
+          "roster_id": 3,
+          "avg_points": 127.3,
+          "recent_avg": 136.5,
+          "power_score": 130.1,
+          "total_points": 2037.2,
+          "rank": 4
+        },
+        {
+          "team": "jalebibaby",
+          "roster_id": 5,
+          "avg_points": 127.1,
+          "recent_avg": 135.5,
+          "power_score": 129.6,
+          "total_points": 2160.2,
+          "rank": 5
+        },
+        {
+          "team": "omk10693",
+          "roster_id": 9,
+          "avg_points": 117.2,
+          "recent_avg": 121.1,
+          "power_score": 118.4,
+          "total_points": 1875.2,
+          "rank": 6
+        },
+        {
+          "team": "bambuboy",
+          "roster_id": 1,
+          "avg_points": 114.5,
+          "recent_avg": 123.0,
+          "power_score": 117.1,
+          "total_points": 1832.4,
+          "rank": 7
+        },
+        {
+          "team": "fawwadkhan23",
+          "roster_id": 7,
+          "avg_points": 117.7,
+          "recent_avg": 106.8,
+          "power_score": 114.5,
+          "total_points": 2001.1,
+          "rank": 8
+        },
+        {
+          "team": "nassahkhan",
+          "roster_id": 6,
+          "avg_points": 117.4,
+          "recent_avg": 105.0,
+          "power_score": 113.7,
+          "total_points": 1878.1,
+          "rank": 9
+        },
+        {
+          "team": "Sohaibenator",
+          "roster_id": 10,
+          "avg_points": 104.2,
+          "recent_avg": 128.9,
+          "power_score": 111.6,
+          "total_points": 1667.9,
+          "rank": 10
+        }
+      ]
+    }
+  ],
+  "best_weekly_efficiency": {
+    "team": "omaruddin",
+    "week": 10,
+    "efficiency": 100.0,
+    "actual": 132.6,
+    "optimal": 132.6
+  },
+  "biggest_blowout": {
+    "week": 15,
+    "winner": "aiman23",
+    "loser": "bambuboy",
+    "margin": 91.4,
+    "winner_score": 183.3,
+    "loser_score": 91.9
+  },
+  "closest_matchup": {
+    "week": 3,
+    "winner": "jalebibaby",
+    "loser": "GopiAloo",
+    "margin": 0.1,
+    "winner_score": 121.5,
+    "loser_score": 121.4
+  }
+}
